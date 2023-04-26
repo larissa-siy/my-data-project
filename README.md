@@ -6,16 +6,16 @@ In this project, I decided to use data to analyse data professionals. The raw da
 
 Some of the questions I am interested answering in are:
 
-What are the most common data profession roles
-What proportion of data professionals are career switchers
-What was the most common salary for data professionals
-What is the most preferred industry for data professionals
-Level of Satisfaciton with Career
-Work life Balance
-The % of women working in Data
-The % of ethnic minorities in Data
-The average age
-How difficult it is to make the career switch into Data
+1. What are the most common data profession roles
+2. What proportion of data professionals are career switchers
+3. What was the most common salary for data professionals
+4. What is the most preferred industry for data professionals
+5. How satisfied are data professionals with their career
+6. How happy are they with the work-life Balance
+7. What is the % of women working in Data
+8. What is the % of ethnic minorities in Data
+9. What is the average age of people working in Data
+10. How difficult it is to make the career switch into Data
 
 I decided to use Synapse Analytics to analyse the Data because it is a powerful and versatile tool for analyzing data, offering scalability, speed, integration, security, and cost-effectiveness. Synapse Analytics integrates with a wide range of data sources and tools, including Azure Data Factory, Power BI, and Azure Machine Learning. This makes it easier to bring all the data together and analyze it in one place.
 
