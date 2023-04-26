@@ -22,7 +22,7 @@ I decided to use Synapse Analytics to analyse the Data because it is a powerful 
 STEPS
 
 1. I created a resource group on Azure
-2. Created an Azure SQL Databse and configured as a general purpose - serverless compute to keep the costs low
+2. Created an Azure SQL Database and configured as a general purpose - serverless compute to keep the costs low
 3. I used a public endpoint so that I can connect to my server publically or privately and deployed the Azure SQL database
 4. I then used the server name to connect it to Azure Data Studio, using the log in details I created when configuring the Azure SQL Database.
 5. Converted the original raw data into a CSV file so it is readable by Azure SQL DB.
