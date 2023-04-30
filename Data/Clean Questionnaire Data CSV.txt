@@ -1,0 +1,631 @@
+Unique ID,Title,Career Switcher?,Salary,Industry,Language,Position Satisfaction,Work Life Balance Satisfaction,Coworker Satisfaction,Management Satisfaction,Upward Mobility Satisfaction,Learning Satisfaction,Difficulty Level of Breaking into Data,Most Important Aspect in New Job,Gender,Age,Country,Highest Level of Education,Ethnicity
+1,Data Analyst,Yes,106-125,Healthcare,Python,9,9,7,5,5,7,Very Difficult,Remote Work,Male,26,United States,Unanswered / None,White or Caucasian
+2,Data Analyst,No,41-65,Finance,R,1,2,5,2,1,3,Very Difficult,Remote Work,Male,36,Canada,Unanswered / None,Asian or Asian American
+3,Data Engineer,No,0-40,Other,Python,0,8,7,5,7,7,Easy,Good Work/Life Balance,Male,23,Other,Unanswered / None,Black or African American
+4,Other,Yes,150-225,Finance,R,10,6,7,10,7,10,Very Easy,Remote Work,Female,35,Canada,Unanswered / None,White or Caucasian
+5,Data Analyst,Yes,41-65,Healthcare,R,1,4,4,4,0,1,Difficult,Better Salary,Male,44,United States,Unanswered / None,Black or African American
+6,Data Analyst,Yes,0-40,Other,Python,2,3,3,3,3,2,Difficult,Good Work/Life Balance,Male,33,Other,Unanswered / None,Black or African American
+7,Data Scientist,Yes,0-40,Finance,Python,0,6,6,6,6,5,Difficult,Better Salary,Male,24,Other,Unanswered / None,Black or African American
+8,Data Engineer,Yes,125-150,Other,SQL,10,5,5,5,5,9,Both,Remote Work,Male,35,United States,Unanswered / None,Asian or Asian American
+9,Data Analyst,Yes,86-105,Healthcare,R,4,4,4,4,5,5,Both,Better Salary,Male,35,United States,Unanswered / None,Asian or Asian American
+10,Data Analyst,Yes,41-65,Telecommunication,Python,2,0,3,3,0,4,Very Difficult,Better Salary,Male,28,United States,Unanswered / None,Hispanic or Latino
+11,Data Analyst,Yes,66-85,Other,Python,10,10,8,8,8,10,Both,Remote Work,Male,37,Canada,Unanswered / None,White or Caucasian
+12,Data Analyst,Yes,0-40,Other,Python,3,8,10,10,7,8,Both,Better Salary,Male,32,Other,Unanswered / None,White or Caucasian
+13,Data Analyst,Yes,0-40,Tech,R,1,10,9,9,5,10,Both,Better Salary,Male,34,Other,Unanswered / None,White or Caucasian
+14,Data Scientist,Yes,0-40,Education,Python,3,10,10,6,7,8,Easy,Good Work/Life Balance,Male,30,United Kingdom,Unanswered / None,White or Caucasian
+15,Data Analyst,No,41-65,Construction,R,4,5,5,5,4,5,Both,Good Culture,Male,31,United States,Unanswered / None,White or Caucasian
+16,Data Analyst,Yes,41-65,Finance,Python,4,10,7,7,7,5,Difficult,Good Culture,Male,29,United States,Unanswered / None,White or Caucasian
+17,Data Analyst,Yes,0-40,Tech,Python,1,2,4,2,2,2,Both,Better Salary,Male,22,Other,Unanswered / None,Black or African American
+18,Unemployed / Student,Yes,0-40,Other,Python,1,3,2,2,4,1,Difficult,Better Salary,Male,23,United States,Unanswered / None,Black or African American
+19,Unemployed / Student,No,41-65,Tech,R,7,8,8,6,8,3,Very Difficult,Better Salary,Female,26,Canada,Unanswered / None,Asian or Asian American
+20,Data Analyst,No,0-40,Other,Python,1,1,1,1,2,0,Very Difficult,Better Salary,Male,28,Other,Unanswered / None,Black or African American
+21,Data Analyst,Yes,41-65,Finance,Python,5,5,5,5,5,5,Easy,Remote Work,Male,29,Other,Unanswered / None,Black or African American
+22,Data Analyst,Yes,106-125,Tech,SQL,10,5,10,6,10,10,Both,Remote Work,Female,31,United States,Unanswered / None,White or Caucasian
+23,Data Analyst,Yes,0-40,Healthcare,Python,5,6,8,8,7,1,Both,Remote Work,Male,28,Other,Unanswered / None,White or Caucasian
+24,Data Analyst,No,0-40,Finance,Python,4,4,4,4,4,4,Both,Better Salary,Male,32,Other,Unanswered / None,Hispanic or Latino
+25,Data Analyst,No,0-40,Tech,Python,7,8,8,8,3,8,Easy,Better Salary,Male,24,Other,Unanswered / None,Black or African American
+26,Data Analyst,No,0-40,Tech,Python,4,6,6,6,7,7,Easy,Good Work/Life Balance,Male,31,India,Unanswered / None,Asian or Asian American
+27,Data Analyst,No,66-85,Other,SQL,7,10,5,5,5,2,Difficult,Other,Male,23,United States,Unanswered / None,White or Caucasian
+28,Data Analyst,Yes,106-125,Other,Python,1,6,9,1,0,2,Difficult,Remote Work,Female,33,United States,Unanswered / None,Asian or Asian American
+29,Data Analyst,No,86-105,Healthcare,Other,6,7,7,7,7,4,Very Easy,Better Salary,Male,43,United States,Unanswered / None,White or Caucasian
+30,Unemployed / Student,Yes,0-40,Other,R,0,0,5,0,0,0,Very Difficult,Remote Work,Female,23,Other,Unanswered / None,Black or African American
+31,Unemployed / Student,Yes,41-65,Finance,Python,10,7,10,10,5,3,Very Difficult,Good Work/Life Balance,Male,31,United States,Unanswered / None,Black or African American
+32,Data Analyst,Yes,66-85,Finance,Python,5,6,7,5,4,4,Both,Other,Male,31,United Kingdom,Unanswered / None,White or Caucasian
+33,Data Analyst,Yes,0-40,Other,Python,8,7,8,7,7,7,Difficult,Good Work/Life Balance,Male,25,India,Unanswered / None,Asian or Asian American
+34,Data Engineer,No,125-150,Tech,SQL,8,10,10,9,9,9,Easy,Better Salary,Male,43,United States,Unanswered / None,White or Caucasian
+35,Data Analyst,No,41-65,Finance,Python,2,3,5,5,5,5,Difficult,Better Salary,Female,26,Canada,Unanswered / None,Asian or Asian American
+36,Other,No,41-65,Other,Python,5,10,8,8,8,7,Both,Remote Work,Male,32,Other,Unanswered / None,White or Caucasian
+37,Other,No,0-40,Tech,Python,2,9,7,7,5,6,Difficult,Better Salary,Male,31,Other,Unanswered / None,White or Caucasian
+38,Data Analyst,Yes,86-105,Healthcare,SQL,3,5,6,4,4,5,Both,Better Salary,Male,29,United States,Unanswered / None,White or Caucasian
+39,Data Analyst,Yes,0-40,Other,Python,3,1,3,2,3,1,Both,Good Culture,Male,24,Other,Unanswered / None,Hispanic or Latino
+40,Unemployed / Student,Yes,41-65,Construction,Python,2,0,2,2,0,0,Very Difficult,Remote Work,Male,34,United States,Unanswered / None,White or Caucasian
+41,Data Analyst,Yes,41-65,Other,Other,5,6,6,5,4,6,Very Difficult,Better Salary,Male,42,Other,Unanswered / None,Asian or Asian American
+42,Unemployed / Student,Yes,0-40,Other,JavaScript,0,0,0,0,0,0,Difficult,Remote Work,Female,40,United States,Unanswered / None,Asian or Asian American
+43,Unemployed / Student,No,41-65,Telecommunication,Python,3,1,3,4,0,3,Easy,Good Work/Life Balance,Male,43,Other,Unanswered / None,White or Caucasian
+44,Unemployed / Student,Yes,0-40,Construction,Python,0,0,0,0,0,0,Very Difficult,Better Salary,Male,23,Other,Unanswered / None,Black or African American
+45,Unemployed / Student,Yes,0-40,Education,Python,5,5,3,5,2,6,Difficult,Better Salary,Male,23,Other,Unanswered / None,Asian or Asian American
+46,Data Analyst,Yes,86-105,Other,Python,8,6,2,3,6,7,Both,Other,Male,28,United States,Unanswered / None,White or Caucasian
+47,Data Analyst,No,66-85,Finance,SQL,5,7,1,1,0,8,Both,Better Salary,Male,32,United States,Unanswered / None,White or Caucasian
+48,Data Analyst,Yes,66-85,Other,R,7,8,10,8,9,9,Difficult,Remote Work,Female,41,United States,Unanswered / None,White or Caucasian
+49,Data Analyst,Yes,41-65,Finance,Python,5,6,6,6,6,6,Both,Remote Work,Male,33,United Kingdom,High School,White or Caucasian
+50,Other,Yes,150-225,Tech,Python,10,8,9,8,8,10,Easy,Good Work/Life Balance,Male,38,United States,Unanswered / None,Hispanic or Latino
+51,Data Analyst,No,0-40,Tech,SQL,8,8,8,8,5,10,Easy,Better Salary,Female,22,India,Unanswered / None,Asian or Asian American
+52,Unemployed / Student,Yes,0-40,Other,R,1,3,6,6,6,9,Difficult,Remote Work,Male,36,Other,Bachelors,Black or African American
+53,Data Engineer,No,66-85,Finance,Python,2,1,1,1,3,7,Easy,Remote Work,Female,28,United States,Masters,Asian or Asian American
+54,Unemployed / Student,Yes,0-40,Other,SQL,,,,,,7,Very Easy,Other,Male,30,Other,Unanswered / None,Black or African American
+55,Data Analyst,Yes,66-85,Tech,Python,6,6,6,6,5,6,Difficult,Other,Female,24,United States,Bachelors,Hispanic or Latino
+56,Other,No,41-65,Other,C/C++,3,6,7,7,0,3,Very Difficult,Better Salary,Male,29,United States,Bachelors,White or Caucasian
+57,Data Analyst,No,0-40,Tech,Python,4,9,10,9,9,10,Easy,Better Salary,Male,29,Other,Associates,Hispanic or Latino
+58,Other,Yes,41-65,Other,Python,6,8,8,7,9,7,Both,Good Work/Life Balance,Male,38,Other,Masters,White or Caucasian
+59,Data Analyst,Yes,0-40,Finance,Other,3,5,4,3,3,3,Difficult,Good Work/Life Balance,Male,31,Other,Masters,White or Caucasian
+60,Unemployed / Student,No,0-40,Tech,Python,1,4,5,5,1,1,Difficult,Better Salary,Male,25,United States,Masters,White or Caucasian
+61,Data Analyst,No,66-85,Telecommunication,Python,4,6,4,5,4,4,Both,Better Salary,Male,24,United States,Masters,White or Caucasian
+62,Other,Yes,41-65,Tech,Python,6,7,4,3,9,8,Difficult,Better Salary,Male,28,Other,Bachelors,White or Caucasian
+63,Unemployed / Student,No,0-40,Tech,Python,7,5,8,0,0,0,Both,Good Culture,Female,23,India,Bachelors,Asian or Asian American
+64,Data Engineer,No,0-40,Tech,R,2,3,2,5,5,7,Both,Remote Work,Male,21,Other,Masters,Hispanic or Latino
+65,Data Analyst,No,0-40,Other,Python,4,4,4,4,5,6,Both,Remote Work,Male,29,Other,Bachelors,Other 
+66,Data Analyst,Yes,41-65,Tech,Python,5,6,7,7,7,6,Difficult,Better Salary,Male,25,United States,Bachelors,Asian or Asian American
+67,Data Analyst,No,41-65,Tech,Python,6,6,6,6,3,5,Difficult,Good Culture,Male,27,Other,Masters,Black or African American
+68,Data Analyst,Yes,41-65,Tech,Python,3,9,10,8,9,9,Easy,Better Salary,Male,23,India,Bachelors,Asian or Asian American
+69,Other,No,86-105,Other,R,4,3,3,5,5,5,Difficult,Better Salary,Male,32,United States,Masters,Asian or Asian American
+70,Unemployed / Student,Yes,106-125,Healthcare,Python,5,5,7,5,7,7,Both,Remote Work,Male,22,India,Bachelors,Asian or Asian American
+71,Data Analyst,No,0-40,Tech,Python,2,9,9,8,6,2,Easy,Better Salary,Male,25,Other,Bachelors,Asian or Asian American
+72,Data Analyst,Yes,0-40,Telecommunication,Python,2,8,6,6,5,5,Both,Remote Work,Female,36,Other,Masters,White or Caucasian
+73,Data Analyst,Yes,106-125,Tech,SQL,10,6,9,5,8,7,Easy,Good Work/Life Balance,Female,27,United States,Bachelors,White or Caucasian
+74,Other,Yes,0-40,Tech,Python,5,5,5,5,5,1,Both,Other,Male,23,India,Bachelors,Asian or Asian American
+75,Unemployed / Student,Yes,0-40,Tech,SQL,2,3,3,3,3,6,Very Difficult,Better Salary,Male,26,Other,Bachelors,Black or African American
+76,Other,No,86-105,Healthcare,Python,9,10,10,10,10,10,Very Easy,Good Work/Life Balance,Female,33,United States,PhD,Hispanic or Latino
+77,Data Analyst,Yes,106-125,Other,Python,3,5,3,3,5,5,Easy,Better Salary,Male,27,Other,Masters,White or Caucasian
+78,Data Analyst,Yes,41-65,Education,R,3,6,5,4,3,4,Both,Better Salary,Male,42,United States,Associates,White or Caucasian
+79,Data Analyst,Yes,0-40,Tech,Python,6,7,8,7,7,8,Easy,Good Work/Life Balance,Male,29,Other,Masters,White or Caucasian
+80,Data Analyst,No,125-150,Tech,Python,4,7,6,4,2,4,Easy,Better Salary,Female,27,United States,Masters,Asian or Asian American
+81,Unemployed / Student,No,41-65,Healthcare,Python,0,10,10,10,4,2,Both,Remote Work,Female,39,United States,Bachelors,Hispanic or Latino
+82,Data Analyst,Yes,41-65,Telecommunication,Python,6,6,7,5,6,7,Difficult,Good Culture,Male,31,Other,Masters,White or Caucasian
+83,Data Analyst,Yes,66-85,Other,Python,7,7,5,9,7,8,Easy,Good Work/Life Balance,Male,29,Other,Bachelors,Hispanic or Latino
+84,Data Analyst,Yes,66-85,Education,R,7,7,7,7,4,7,Easy,Remote Work,Male,31,United States,Masters,White or Caucasian
+85,Data Analyst,Yes,0-40,Finance,Python,10,9,9,10,9,10,Both,Good Culture,Male,30,Other,Masters,Hispanic or Latino
+86,Data Engineer,Yes,0-40,Tech,Python,7,8,6,5,5,9,Difficult,Better Salary,Male,33,Other,Masters,Hispanic or Latino
+87,Data Analyst,No,66-85,Other,Python,7,8,9,7,7,7,Both,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+88,Unemployed / Student,No,0-40,Tech,R,0,0,0,0,0,0,Both,Good Work/Life Balance,Male,23,India,Bachelors,Asian or Asian American
+89,Data Analyst,Yes,41-65,Other,Other,4,4,3,3,5,6,Very Difficult,Better Salary,Male,33,United States,Bachelors,Asian or Asian American
+90,Other,Yes,66-85,Other,Python,7,9,9,8,8,9,Both,Good Work/Life Balance,Male,35,Other,Bachelors,Hispanic or Latino
+91,Data Analyst,No,41-65,Other,Python,6,8,5,,6,9,Both,Remote Work,Female,42,Other,Masters,White or Caucasian
+92,Data Analyst,No,66-85,Tech,Python,3,4,2,1,0,4,Both,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+93,Data Analyst,No,86-105,Other,Python,5,4,5,4,3,6,Both,Other,Male,23,United States,Bachelors,White or Caucasian
+94,Other,No,41-65,Healthcare,JavaScript,2,4,6,5,3,4,Easy,Better Salary,Female,51,United States,Bachelors,Black or African American
+95,Data Analyst,No,0-40,Telecommunication,Other,1,4,4,3,2,6,Very Difficult,Better Salary,Male,30,United Kingdom,Bachelors,Black or African American
+96,Data Analyst,Yes,41-65,Finance,Python,8,9,9,9,9,8,Very Difficult,Better Salary,Male,23,India,Bachelors,Asian or Asian American
+97,Other,Yes,41-65,Other,R,3,5,5,6,3,4,Both,Better Salary,Male,24,Canada,Bachelors,Asian or Asian American
+98,Unemployed / Student,Yes,41-65,Tech,Python,6,6,6,6,6,6,Easy,Good Culture,Male,25,Other,Masters,Asian or Asian American
+99,Data Analyst,Yes,41-65,Finance,Python,4,4,6,4,5,6,Difficult,Better Salary,Female,55,United States,Masters,Other 
+100,Data Analyst,No,86-105,Other,R,8,10,8,7,8,10,Very Easy,Remote Work,Female,30,United States,Masters,White or Caucasian
+101,Data Analyst,Yes,41-65,Other,Python,9,9,9,9,7,4,Difficult,Better Salary,Male,25,Canada,Bachelors,Asian or Asian American
+102,Data Analyst,Yes,66-85,Other,Python,6,9,7,6,7,7,Both,Better Salary,Male,28,United States,Masters,White or Caucasian
+103,Other,Yes,41-65,Other,Python,8,8,9,9,10,10,Very Easy,Better Salary,Male,34,United Kingdom,Bachelors,White or Caucasian
+104,Data Analyst,Yes,0-40,Tech,Python,8,10,9,9,10,8,Both,Better Salary,Female,28,Other,Bachelors,Hispanic or Latino
+105,Unemployed / Student,No,0-40,Other,Other,7,9,7,8,8,10,Both,Better Salary,Male,24,Other,Bachelors,Asian or Asian American
+106,Unemployed / Student,Yes,0-40,Healthcare,Python,3,7,7,7,1,2,Difficult,Better Salary,Male,31,United States,Masters,Black or African American
+107,Data Analyst,Yes,41-65,Other,SQL,3,6,6,6,4,4,Easy,Better Salary,Male,25,Canada,Bachelors,Asian or Asian American
+108,Data Analyst,Yes,106-125,Finance,Python,5,1,4,3,3,4,Easy,Better Salary,Female,38,United States,Bachelors,White or Caucasian
+109,Data Analyst,No,41-65,Finance,Python,5,5,5,5,4,5,Both,Good Culture,Male,30,Other,Bachelors,Hispanic or Latino
+110,Data Analyst,Yes,0-40,Tech,C/C++,0,0,0,2,2,5,Both,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American
+111,Data Analyst,Yes,0-40,Tech,Python,1,2,1,5,6,6,Both,Better Salary,Female,29,Other,Bachelors,Black or African American
+112,Data Scientist,Yes,150-225,Finance,Python,7,5,3,6,4,4,Difficult,Good Work/Life Balance,Male,21,Other,Masters,White or Caucasian
+113,Data Analyst,Yes,66-85,Other,SQL,5,8,8,7,6,7,Very Easy,Remote Work,Female,39,United States,Bachelors,Asian or Asian American
+114,Unemployed / Student,No,0-40,Other,Python,0,0,0,0,0,5,Both,Better Salary,Male,25,Other,Bachelors,White or Caucasian
+115,Other,Yes,86-105,Finance,Other,7,9,10,6,4,4,Both,Other,Female,42,United States,Masters,Hispanic or Latino
+116,Data Analyst,No,41-65,Tech,R,10,8,9,10,10,10,Easy,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+117,Data Scientist,No,86-105,Finance,Python,8,7,6,6,5,9,Both,Better Salary,Male,22,United States,Bachelors,White or Caucasian
+118,Data Analyst,No,0-40,Other,Python,1,4,4,3,,5,Easy,Better Salary,Male,23,Other,High School,Hispanic or Latino
+119,Data Engineer,Yes,41-65,Other,JavaScript,6,6,6,6,6,6,Difficult,Good Culture,Male,25,Other,High School,Other 
+120,Data Engineer,Yes,66-85,Other,Python,5,7,7,6,6,7,Both,Better Salary,Male,45,Canada,Masters,White or Caucasian
+121,Data Analyst,Yes,66-85,Healthcare,SQL,7,3,8,6,8,8,Easy,Good Work/Life Balance,Male,24,United States,Bachelors,White or Caucasian
+122,Unemployed / Student,No,0-40,Other,R,1,9,6,0,0,0,Difficult,Better Salary,Male,25,United States,Unanswered / None,Black or African American
+123,Data Analyst,Yes,66-85,Other,Python,9,8,9,9,8,8,Difficult,Good Work/Life Balance,Male,26,United States,Bachelors,White or Caucasian
+124,Data Analyst,No,41-65,Tech,R,4,7,8,8,5,7,Easy,Better Salary,Male,23,Canada,Bachelors,Asian or Asian American
+125,Unemployed / Student,Yes,0-40,Other,Python,1,1,1,0,0,3,Difficult,Remote Work,Female,42,United Kingdom,Masters,White or Caucasian
+126,Other,Yes,41-65,Education,Other,0,0,2,0,0,0,Very Difficult,Good Work/Life Balance,Female,42,United States,Bachelors,Black or African American
+127,Other,No,0-40,Tech,Python,0,6,5,5,3,1,Both,Better Salary,Male,25,India,Masters,Asian or Asian American
+128,Data Analyst,Yes,86-105,Tech,R,8,10,10,10,2,7,Easy,Remote Work,Male,38,United States,Masters,White or Caucasian
+129,Other,No,0-40,Tech,Python,5,6,6,6,6,4,Easy,Better Salary,Male,24,Other,Bachelors,Hispanic or Latino
+130,Data Analyst,Yes,66-85,Education,R,7,10,10,10,8,10,Both,Good Work/Life Balance,Male,28,United States,Bachelors,White or Caucasian
+131,Data Analyst,No,41-65,Healthcare,Python,1,2,8,7,0,0,Difficult,Better Salary,Male,21,United States,Bachelors,Asian or Asian American
+132,Data Analyst,Yes,106-125,Healthcare,R,10,10,10,10,10,10,Very Easy,Good Culture,Male,39,United States,Masters,White or Caucasian
+133,Data Analyst,Yes,0-40,Tech,Python,4,5,5,5,6,8,Difficult,Good Work/Life Balance,Male,23,Other,Bachelors,Asian or Asian American
+134,Data Analyst,No,0-40,Other,R,1,6,4,3,5,6,Both,Good Work/Life Balance,Female,23,Other,Bachelors,White or Caucasian
+135,Data Analyst,Yes,66-85,Other,R,8,9,8,7,7,8,Both,Good Work/Life Balance,Male,30,United States,Masters,White or Caucasian
+136,Data Analyst,No,41-65,Other,Python,2,6,2,3,2,2,Easy,Better Salary,Male,26,Other,Masters,White or Caucasian
+137,Data Analyst,Yes,41-65,Healthcare,R,3,6,4,6,4,6,Both,Better Salary,Male,37,United States,Bachelors,White or Caucasian
+138,Data Analyst,Yes,66-85,Healthcare,Python,3,5,4,5,4,4,Both,Better Salary,Female,31,United States,Bachelors,White or Caucasian
+139,Data Analyst,Yes,0-40,Finance,C/C++,5,2,4,3,3,3,Difficult,Good Work/Life Balance,Female,25,Other,Bachelors,Black or African American
+140,Data Analyst,Yes,0-40,Healthcare,Python,2,6,6,5,4,5,Easy,Better Salary,Female,26,Other,Bachelors,White or Caucasian
+141,Data Analyst,Yes,66-85,Healthcare,SQL,7,8,8,8,8,7,Very Easy,Better Salary,Male,30,United States,Bachelors,White or Caucasian
+142,Data Analyst,Yes,66-85,Tech,Python,9,10,10,10,7,9,Both,Better Salary,Female,39,United States,Bachelors,Black or African American
+143,Other,No,0-40,Education,Python,1,1,1,0,0,2,Easy,Good Work/Life Balance,Female,28,India,Masters,Asian or Asian American
+144,Data Analyst,Yes,66-85,Finance,SQL,8,8,7,7,10,10,Very Easy,Good Work/Life Balance,Male,22,United States,Bachelors,Biracial
+145,Data Analyst,Yes,0-40,Telecommunication,Python,3,2,4,2,2,2,Both,Good Culture,Male,28,Other,Bachelors,Black or African American
+146,Other,No,150-225,Tech,R,8,10,9,7,5,5,Both,Remote Work,Male,33,United States,Masters,White or Caucasian
+147,Data Analyst,Yes,0-40,Finance,SQL,2,3,3,3,2,4,Both,Good Work/Life Balance,Female,22,Other,Bachelors,Biracial
+148,Unemployed / Student,No,0-40,Tech,Python,3,5,5,4,4,5,Both,Better Salary,Male,27,India,Bachelors,Asian or Asian American
+149,Data Analyst,Yes,106-125,Other,Other,8,8,8,8,10,10,Easy,Good Work/Life Balance,Male,37,United States,Bachelors,Other 
+150,Other,No,41-65,Other,R,3,4,5,5,4,3,Difficult,Better Salary,Male,24,United States,Masters,White or Caucasian
+151,Data Analyst,No,41-65,Healthcare,R,1,4,3,2,0,6,Difficult,Better Salary,Male,25,United Kingdom,Masters,Asian or Asian American
+152,Data Engineer,No,86-105,Healthcare,R,8,10,8,8,9,10,Both,Good Culture,Male,28,United States,Masters,Black or African American
+153,Data Analyst,Yes,41-65,Other,Python,5,5,7,7,7,7,Easy,Better Salary,Male,32,United Kingdom,Bachelors,White or Caucasian
+154,Data Analyst,Yes,41-65,Other,Python,0,7,7,7,0,7,Easy,Good Culture,Male,29,United States,Bachelors,Asian or Asian American
+155,Data Analyst,No,41-65,Healthcare,R,7,5,8,6,5,10,Difficult,Other,Female,26,Other,Masters,White or Caucasian
+156,Data Engineer,Yes,41-65,Tech,Python,0,7,5,0,0,7,Both,Remote Work,Male,37,Canada,Masters,White or Caucasian
+157,Data Analyst,No,41-65,Other,R,4,6,5,4,5,6,Both,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+158,Data Analyst,No,0-40,Finance,SQL,4,4,5,6,6,0,Difficult,Better Salary,Male,24,Other,High School,White or Caucasian
+159,Other,No,125-150,Finance,SQL,7,8,8,8,7,8,Easy,Better Salary,Male,52,United States,Bachelors,White or Caucasian
+160,Data Analyst,Yes,41-65,Finance,Python,6,10,3,5,0,10,Difficult,Good Culture,Male,27,Other,Bachelors,Asian or Asian American
+161,Data Analyst,No,106-125,Healthcare,Other,6,6,3,3,3,3,Both,Better Salary,Female,29,United States,Masters,White or Caucasian
+162,Unemployed / Student,No,0-40,Tech,Python,3,7,6,7,0,0,Difficult,Better Salary,Male,42,Other,Associates,White or Caucasian
+163,Data Analyst,Yes,41-65,Telecommunication,R,3,5,6,4,3,7,Difficult,Other,Male,28,United States,Masters,White or Caucasian
+164,Data Analyst,Yes,0-40,Tech,Python,8,8,8,8,8,9,Both,Good Work/Life Balance,Male,44,Other,Bachelors,Hispanic or Latino
+165,Data Engineer,Yes,0-40,Tech,Python,5,5,6,5,6,7,Both,Remote Work,Male,23,Other,Bachelors,White or Caucasian
+166,Data Analyst,No,41-65,Other,R,1,2,6,4,2,0,Easy,Better Salary,Male,27,United States,Bachelors,Hispanic or Latino
+167,Data Analyst,No,66-85,Construction,Python,3,3,3,2,2,1,Both,Good Culture,Male,26,United States,Masters,White or Caucasian
+168,Data Analyst,Yes,86-105,Healthcare,Other,3,4,4,4,1,3,Both,Better Salary,Male,27,United States,Masters,Hispanic or Latino
+169,Data Analyst,Yes,66-85,Other,Python,0,0,7,1,0,9,Difficult,Better Salary,Male,33,Canada,Bachelors,Asian or Asian American
+170,Data Analyst,Yes,66-85,Other,Python,8,10,10,10,10,10,Easy,Better Salary,Male,28,United States,Bachelors,Hispanic or Latino
+171,Data Analyst,Yes,0-40,Tech,R,2,8,8,7,6,9,Both,Better Salary,Male,32,Other,Bachelors,Black or African American
+172,Unemployed / Student,Yes,41-65,Other,Python,2,4,6,1,1,1,Very Difficult,Better Salary,Male,34,Canada,Associates,Asian or Asian American
+173,Data Analyst,No,150-225,Tech,Python,10,10,10,8,10,10,Easy,Good Work/Life Balance,Male,28,United States,Bachelors,Asian or Asian American
+174,Data Scientist,Yes,125-150,Telecommunication,Python,2,4,1,3,1,7,Both,Better Salary,Male,27,India,Bachelors,Asian or Asian American
+175,Data Engineer,Yes,41-65,Finance,Python,2,4,5,5,4,6,Difficult,Better Salary,Male,22,United States,Bachelors,White or Caucasian
+176,Data Analyst,No,66-85,Healthcare,Python,3,3,4,1,2,2,Both,Better Salary,Male,29,United States,Masters,White or Caucasian
+177,Data Analyst,No,66-85,Healthcare,Python,8,10,10,8,5,7,Both,Good Work/Life Balance,Female,31,United States,Masters,White or Caucasian
+178,Data Analyst,No,66-85,Tech,Python,4,5,5,5,4,4,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian
+179,Unemployed / Student,No,0-40,Healthcare,Python,0,0,0,0,0,0,Both,Good Work/Life Balance,Male,24,United States,Masters,Asian or Asian American
+180,Data Analyst,No,86-105,Other,Other,4,5,3,4,2,3,Easy,Good Culture,Male,34,United States,Masters,White or Caucasian
+181,Data Engineer,No,86-105,Tech,Python,5,3,5,5,4,5,Difficult,Better Salary,Male,23,United States,Bachelors,White or Caucasian
+182,Unemployed / Student,No,41-65,Construction,Other,10,4,10,10,4,10,Both,Remote Work,Male,32,Other,Masters,White or Caucasian
+183,Data Analyst,Yes,0-40,Healthcare,R,6,8,6,6,8,10,Easy,Remote Work,Male,29,Other,High School,Hispanic or Latino
+184,Data Analyst,Yes,0-40,Education,Python,0,0,0,0,0,0,Very Difficult,Better Salary,Male,34,Other,Bachelors,Black or African American
+185,Data Analyst,No,66-85,Finance,Python,7,5,5,7,9,10,Very Easy,Remote Work,Male,24,United Kingdom,Bachelors,White or Caucasian
+186,Other,No,66-85,Tech,Python,0,10,6,0,0,0,Difficult,Better Salary,Male,30,United States,Bachelors,Asian or Asian American
+187,Other,No,86-105,Other,Python,5,5,6,4,5,5,Difficult,Better Salary,Male,24,United States,Masters,Hispanic or Latino
+188,Data Analyst,Yes,41-65,Other,Python,6,8,10,9,7,9,Easy,Better Salary,Male,27,United States,Bachelors,Other 
+189,Data Analyst,No,0-40,Finance,Python,1,2,4,4,4,5,Both,Better Salary,Male,21,India,Bachelors,Asian or Asian American
+190,Data Analyst,No,0-40,Other,Python,3,5,9,9,,8,Very Difficult,Other,Male,31,Other,Masters,Black or African American
+191,Data Analyst,Yes,0-40,Telecommunication,R,5,7,5,5,5,7,Difficult,Better Salary,Male,41,Other,Bachelors,White or Caucasian
+192,Data Analyst,Yes,0-40,Tech,Python,0,1,1,0,0,2,Difficult,Better Salary,Male,25,India,Bachelors,Asian or Asian American
+193,Data Analyst,No,0-40,Finance,Other,4,7,8,8,8,9,Both,Other,Male,24,Other,Bachelors,Black or African American
+194,Data Analyst,No,0-40,Finance,Python,6,5,6,5,6,6,Both,Better Salary,Male,30,Other,Masters,Black or African American
+195,Data Analyst,No,150-225,Finance,Other,7,7,7,,5,7,Both,Good Work/Life Balance,Male,33,United States,Bachelors,White or Caucasian
+196,Data Analyst,No,66-85,Other,Other,7,4,10,9,7,10,Difficult,Better Salary,Male,23,United States,Bachelors,Hispanic or Latino
+197,Data Analyst,Yes,66-85,Tech,Python,6,6,6,6,6,6,Difficult,Remote Work,Female,33,United Kingdom,Masters,Asian or Asian American
+198,Data Analyst,No,106-125,Finance,Python,4,4,4,4,4,4,Both,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+199,Data Analyst,No,0-40,Other,Python,5,5,5,5,5,5,Both,Remote Work,Female,27,Other,Masters,White or Caucasian
+200,Data Analyst,Yes,0-40,Finance,C/C++,5,10,10,8,10,10,Very Easy,Good Work/Life Balance,Male,30,United Kingdom,Bachelors,White or Caucasian
+201,Data Analyst,Yes,0-40,Tech,Python,0,3,,,,6,Both,Remote Work,Male,29,Other,Bachelors,Black or African American
+202,Other,Yes,0-40,Healthcare,Python,10,2,8,5,0,6,Easy,Better Salary,Male,25,India,Masters,Asian or Asian American
+203,Data Analyst,No,86-105,Telecommunication,Other,7,7,5,7,7,7,Easy,Remote Work,Male,40,United States,High School,Hispanic or Latino
+204,Data Analyst,No,41-65,Other,Other,6,10,8,8,4,4,Both,Better Salary,Female,29,Canada,Bachelors,Other 
+205,Data Analyst,No,41-65,Other,Python,0,3,3,3,3,,Difficult,Remote Work,Male,29,India,Masters,Asian or Asian American
+206,Data Analyst,Yes,0-40,Education,Python,1,2,2,3,3,4,Both,Better Salary,Male,28,Other,Masters,Black or African American
+207,Other,No,86-105,Other,Other,5,2,0,2,0,0,Both,Good Work/Life Balance,Male,34,United Kingdom,Bachelors,White or Caucasian
+208,Unemployed / Student,No,0-40,Tech,Python,0,4,7,6,7,8,Easy,Other,Male,24,Other,Masters,White or Caucasian
+209,Data Analyst,Yes,0-40,Telecommunication,Python,5,8,8,9,7,9,Very Easy,Better Salary,Male,26,Other,Bachelors,Asian or Asian American
+210,Data Analyst,No,125-150,Tech,Python,10,5,10,10,6,10,Difficult,Good Work/Life Balance,Male,28,United States,Bachelors,Hispanic or Latino
+211,Unemployed / Student,No,0-40,Education,R,5,4,4,4,5,5,Difficult,Good Work/Life Balance,Male,25,Other,Masters,White or Caucasian
+212,Data Analyst,Yes,0-40,Tech,Python,1,4,9,7,8,10,Easy,Better Salary,Male,33,Other,Bachelors,Hispanic or Latino
+213,Data Analyst,Yes,66-85,Finance,Python,4,4,6,3,4,0,Both,Remote Work,Male,30,Other,Masters,White or Caucasian
+214,Data Analyst,Yes,0-40,Finance,Python,1,1,1,1,1,1,Very Difficult,Better Salary,Male,35,India,Bachelors,Asian or Asian American
+215,Data Analyst,No,0-40,Other,Other,5,2,5,5,3,4,Difficult,Better Salary,Male,25,Other,Bachelors,White or Caucasian
+216,Data Analyst,No,0-40,Real Estate,Python,4,7,9,5,2,8,Easy,Better Salary,Male,23,Other,Bachelors,White or Caucasian
+217,Data Engineer,No,0-40,Healthcare,Python,6,6,6,5,4,7,Both,Good Work/Life Balance,Male,24,Other,Bachelors,Hispanic or Latino
+218,Data Analyst,Yes,150-225,Education,SQL,8,9,9,7,6,6,Both,Better Salary,Male,27,United States,Masters,Black or African American
+219,Data Analyst,Yes,66-85,Other,Python,4,10,10,8,5,6,Both,Remote Work,Male,32,United States,Bachelors,Asian or Asian American
+220,Data Analyst,Yes,41-65,Tech,Python,3,5,4,4,4,4,Both,Good Work/Life Balance,Male,50,Canada,Bachelors,White or Caucasian
+221,Data Architect,Yes,66-85,Other,Python,7,7,8,9,10,10,Both,Remote Work,Male,29,United States,High School,White or Caucasian
+222,Data Analyst,Yes,0-40,Telecommunication,R,2,8,7,6,5,6,Both,Good Work/Life Balance,Male,41,Other,Bachelors,Hispanic or Latino
+223,Other,No,0-40,Other,R,1,7,7,1,4,10,Both,Better Salary,Male,23,United States,Associates,White or Caucasian
+224,Data Analyst,Yes,0-40,Finance,Python,4,7,8,7,8,8,Difficult,Better Salary,Male,31,Other,Bachelors,Black or African American
+225,Data Analyst,No,0-40,Healthcare,Python,0,10,10,10,10,10,Difficult,Better Salary,Male,22,Other,Bachelors,Native Hawaiian or other Pacific Islander
+226,Data Analyst,No,66-85,Finance,Python,3,5,5,5,3,3,Very Difficult,Better Salary,Male,29,United States,Masters,Hispanic or Latino
+227,Data Scientist,Yes,0-40,Tech,Python,4,4,4,0,0,6,Difficult,Good Culture,Male,23,Other,Bachelors,Asian or Asian American
+228,Unemployed / Student,No,0-40,Other,Other,0,0,1,1,0,1,Both,Remote Work,Female,24,United States,High School,Hispanic or Latino
+229,Data Analyst,Yes,66-85,Other,Python,5,9,10,10,5,10,Both,Better Salary,Male,26,United States,Bachelors,Black or African American
+230,Unemployed / Student,Yes,0-40,Finance,Python,4,3,5,2,2,3,Difficult,Good Culture,Male,31,India,Bachelors,Asian or Asian American
+231,Data Analyst,Yes,0-40,Other,Python,1,1,1,1,7,9,Both,Remote Work,Male,22,Other,Bachelors,Black or African American
+232,Data Analyst,Yes,66-85,Other,Python,7,8,10,8,7,5,Both,Remote Work,Male,31,Other,Bachelors,White or Caucasian
+233,Unemployed / Student,Yes,0-40,Tech,Python,0,4,0,0,4,5,Both,Better Salary,Male,27,United States,Masters,Asian or Asian American
+234,Unemployed / Student,No,0-40,Other,Python,1,1,2,1,1,1,Difficult,Better Salary,Female,25,United States,Bachelors,Asian or Asian American
+235,Data Analyst,Yes,0-40,Healthcare,Python,4,10,10,8,8,10,Easy,Good Work/Life Balance,Male,30,Other,Masters,Hispanic or Latino
+236,Data Analyst,Yes,41-65,Healthcare,R,0,6,5,6,0,2,Easy,Other,Male,28,United States,Masters,Hispanic or Latino
+237,Data Analyst,No,125-150,Finance,Python,6,6,5,4,2,4,Easy,Remote Work,Male,26,United States,Bachelors,White or Caucasian
+238,Data Scientist,Yes,125-150,Other,Python,6,7,7,10,6,7,Both,Remote Work,Female,32,United States,Masters,White or Caucasian
+239,Data Analyst,Yes,0-40,Other,SQL,3,5,6,4,6,6,Both,Better Salary,Female,40,Other,PhD,White or Caucasian
+240,Data Engineer,Yes,0-40,Other,Python,4,7,7,6,8,7,Both,Better Salary,Male,36,Other,Associates,Asian or Asian American
+241,Data Analyst,Yes,66-85,Finance,Python,6,10,9,9,9,10,Difficult,Better Salary,Male,35,United States,Bachelors,Hispanic or Latino
+242,Data Analyst,Yes,66-85,Tech,Python,3,4,4,4,5,5,Very Difficult,Good Work/Life Balance,Male,29,United States,Masters,Asian or Asian American
+243,Data Analyst,No,41-65,Finance,Python,6,5,9,9,7,5,Both,Other,Female,25,Other,Masters,Hispanic or Latino
+244,Database Developer,Yes,41-65,Other,Python,6,8,8,9,6,8,Difficult,Remote Work,Male,29,United States,Bachelors,White or Caucasian
+245,Data Analyst,No,86-105,Agriculture,Python,7,6,7,4,5,8,Difficult,Good Work/Life Balance,Male,26,United States,Bachelors,Black or African American
+246,Data Analyst,No,0-40,Other,R,1,1,1,1,1,1,Both,Remote Work,Male,34,Other,Bachelors,Black or African American
+247,Data Analyst,Yes,0-40,Finance,Python,5,2,5,4,3,5,Both,Good Work/Life Balance,Male,26,Other,Bachelors,White or Caucasian
+248,Data Analyst,No,0-40,Tech,Python,3,3,5,4,3,2,Difficult,Other,Female,22,India,Bachelors,Asian or Asian American
+249,Unemployed / Student,Yes,0-40,Construction,Python,0,2,0,1,1,2,Very Difficult,Remote Work,Female,24,Other,Bachelors,Black or African American
+250,Data Analyst,No,0-40,Other,Python,3,6,6,6,4,3,Both,Better Salary,Male,26,Other,Bachelors,Hispanic or Latino
+251,Data Architect,Yes,0-40,Finance,Python,5,6,2,3,3,5,Very Difficult,Good Work/Life Balance,Female,34,Other,Masters,White or Caucasian
+252,Data Analyst,No,0-40,Tech,Python,3,5,4,5,4,2,Both,Better Salary,Male,29,India,Bachelors,Asian or Asian American
+253,Data Scientist,No,0-40,Tech,R,2,7,7,7,7,7,Easy,Better Salary,Male,21,Other,Bachelors,Black or African American
+254,Other,No,0-40,Other,Python,2,4,5,3,1,1,Both,Good Work/Life Balance,Female,35,Other,Masters,White or Caucasian
+255,Data Analyst,No,41-65,Education,Python,7,7,8,8,6,7,Both,Good Work/Life Balance,Male,26,United States,Bachelors,Black or African American
+256,Data Analyst,Yes,41-65,Other,Python,2,4,7,10,5,10,Both,Remote Work,Male,28,United States,Bachelors,White or Caucasian
+257,Other,No,41-65,Other,Python,1,5,5,1,0,3,Easy,Better Salary,Female,33,United States,Bachelors,White or Caucasian
+258,Data Analyst,Yes,66-85,Other,Other,7,6,5,7,4,4,Easy,Better Salary,Female,56,United States,Bachelors,White or Caucasian
+259,Other,No,0-40,Other,Python,3,3,6,5,,4,Difficult,Good Work/Life Balance,Male,23,India,Bachelors,Asian or Asian American
+260,Data Scientist,Yes,125-150,Healthcare,Python,4,5,5,5,4,5,Difficult,Better Salary,Male,28,United States,Masters,White or Caucasian
+261,Unemployed / Student,No,0-40,Other,JavaScript,0,0,0,0,0,10,Both,Remote Work,Male,21,Other,High School,White or Caucasian
+262,Unemployed / Student,No,66-85,Other,Python,2,2,4,1,2,1,Both,Good Work/Life Balance,Male,35,United States,Masters,Black or African American
+263,Data Analyst,No,41-65,Healthcare,Python,7,5,9,9,9,8,Both,Remote Work,Male,29,Other,Masters,Asian or Asian American
+264,Data Analyst,No,86-105,Tech,Python,9,10,8,8,7,7,Both,Other,Female,23,United States,Bachelors,Asian or Asian American
+265,Other,No,41-65,Finance,Python,3,3,3,0,0,1,Difficult,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American
+266,Data Engineer,Yes,86-105,Other,Python,8,7,10,9,10,10,Easy,Better Salary,Male,27,United States,Masters,White or Caucasian
+267,Data Analyst,No,0-40,Tech,Python,3,8,7,5,8,7,Both,Better Salary,Male,22,India,Bachelors,Asian or Asian American
+268,Data Analyst,Yes,0-40,Other,Python,6,3,5,7,5,7,Both,Good Work/Life Balance,Male,22,India,Bachelors,Asian or Asian American
+269,Other,No,106-125,Other,Java,7,7,4,5,5,4,Both,Better Salary,Male,43,United States,Masters,Asian or Asian American
+270,Other,Yes,0-40,Tech,Python,3,5,8,4,5,5,Difficult,Better Salary,Female,32,United States,Bachelors,Asian or Asian American
+271,Unemployed / Student,Yes,66-85,Healthcare,Other,,,,,,0,Difficult,Good Work/Life Balance,Female,42,United States,Masters,Asian or Asian American
+272,Other,No,66-85,Other,Python,4,6,2,3,3,2,Very Difficult,Remote Work,Male,31,United States,Bachelors,Hispanic or Latino
+273,Data Engineer,No,0-40,Other,Python,0,10,10,5,0,3,Both,Better Salary,Male,25,United Kingdom,Bachelors,White or Caucasian
+274,Data Analyst,No,41-65,Agriculture,SQL,3,5,5,5,3,2,Both,Better Salary,Female,25,United States,Masters,Asian or Asian American
+275,Data Analyst,Yes,106-125,Other,Other,9,9,9,6,9,8,Difficult,Good Work/Life Balance,Male,31,United States,Masters,Asian or Asian American
+276,Data Scientist,Yes,0-40,Education,Python,3,3,1,1,1,6,Difficult,Better Salary,Male,36,Other,Masters,White or Caucasian
+277,Other,No,41-65,Healthcare,Python,6,8,8,8,8,10,Both,Good Work/Life Balance,Female,35,Other,Masters,White or Caucasian
+278,Data Analyst,Yes,66-85,Other,R,6,10,10,10,9,8,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian
+279,Data Analyst,No,0-40,Other,Python,8,8,9,9,8,7,Both,Better Salary,Male,27,Other,Bachelors,Hispanic or Latino
+280,Data Analyst,Yes,0-40,Other,Python,7,4,7,4,8,10,Easy,Good Work/Life Balance,Male,25,Other,Bachelors,Hispanic or Latino
+281,Data Analyst,No,0-40,Other,Python,6,6,10,8,6,8,Both,Better Salary,Male,25,Other,Bachelors,White or Caucasian
+282,Other,No,41-65,Other,R,5,5,5,5,5,5,Difficult,Good Work/Life Balance,Male,22,United States,Masters,White or Caucasian
+283,Data Analyst,Yes,41-65,Healthcare,Other,7,8,8,4,6,8,Both,Good Culture,Male,38,Other,High School,White or Caucasian
+284,Data Analyst,Yes,0-40,Education,Python,0,0,5,0,0,0,Difficult,Good Culture,Male,27,Other,Bachelors,Black or African American
+285,Data Analyst,Yes,86-105,Other,Other,4,4,2,2,2,2,Easy,Remote Work,Female,34,Canada,Bachelors,Black or African American
+286,Data Analyst,Yes,66-85,Other,Python,9,10,10,9,8,10,Difficult,Better Salary,Female,31,United States,Bachelors,White or Caucasian
+287,Data Analyst,Yes,41-65,Tech,Python,4,9,8,8,6,10,Both,Better Salary,Female,33,Canada,Masters,Black or African American
+288,Unemployed / Student,Yes,0-40,Tech,Python,2,5,5,5,5,5,Very Difficult,Remote Work,Male,23,United States,Bachelors,Asian or Asian American
+289,Data Analyst,Yes,41-65,Healthcare,Other,3,10,9,10,5,0,Both,Better Salary,Female,25,United States,Bachelors,Asian or Asian American
+290,Data Analyst,Yes,0-40,Tech,Python,4,4,4,5,2,1,Difficult,Better Salary,Male,29,Other,Masters,White or Caucasian
+291,Other,Yes,41-65,Healthcare,R,5,7,9,8,8,8,Both,Better Salary,Female,29,United States,Masters,Black or African American
+292,Data Analyst,Yes,0-40,Tech,R,3,4,4,4,4,2,Easy,Better Salary,Male,31,India,Masters,Asian or Asian American
+293,Unemployed / Student,No,0-40,Real Estate,R,0,5,0,0,0,0,Very Difficult,Remote Work,Male,34,Other,High School,Black or African American
+294,Data Analyst,Yes,0-40,Tech,Python,3,2,4,3,7,8,Easy,Good Work/Life Balance,Male,26,Other,Bachelors,Asian or Asian American
+295,Other,No,86-105,Healthcare,Python,4,6,5,6,6,4,Both,Remote Work,Female,26,United States,Bachelors,White or Caucasian
+296,Other,Yes,41-65,Other,Other,3,6,9,6,5,10,Difficult,Other,Male,27,United States,Masters,Black or African American
+297,Data Analyst,Yes,66-85,Other,Python,8,5,9,6,6,10,Both,Remote Work,Male,26,United States,Bachelors,White or Caucasian
+298,Unemployed / Student,Yes,0-40,Tech,Python,4,5,4,4,3,4,Very Difficult,Better Salary,Female,26,United States,Masters,Asian or Asian American
+299,Data Analyst,Yes,41-65,Finance,R,2,5,5,5,4,5,Easy,Better Salary,Male,24,United States,Bachelors,White or Caucasian
+300,Data Analyst,Yes,86-105,Other,Python,4,6,3,4,4,2,Easy,Better Salary,Female,28,Other,Masters,Asian or Asian American
+301,Data Analyst,Yes,106-125,Other,R,8,8,10,9,7,5,Easy,Better Salary,Male,29,United States,Bachelors,White or Caucasian
+302,Data Analyst,Yes,66-85,Finance,Python,3,2,1,1,0,2,Very Difficult,Better Salary,Female,26,United States,Masters,Asian or Asian American
+303,Data Analyst,Yes,41-65,Other,Python,3,5,3,3,1,1,Both,Better Salary,Male,28,United Kingdom,Bachelors,White or Caucasian
+304,Data Analyst,No,0-40,Finance,Python,6,8,7,6,2,4,Easy,Other,Male,25,Other,Masters,White or Caucasian
+305,Data Analyst,Yes,66-85,Finance,R,5,7,7,3,7,9,Difficult,Better Salary,Female,26,United States,Bachelors,Asian or Asian American
+306,Data Engineer,Yes,125-150,Healthcare,Python,6,3,9,5,8,8,Both,Remote Work,Female,38,United States,Masters,White or Caucasian
+307,Other,Yes,0-40,Other,SQL,0,3,3,3,4,4,Both,Better Salary,Female,20,Other,High School,Black or African American
+308,Data Analyst,No,66-85,Education,SQL,4,6,7,7,2,2,Both,Remote Work,Female,45,United States,Masters,Black or African American
+309,Data Analyst,No,86-105,Other,Python,5,3,5,6,6,4,Difficult,Good Work/Life Balance,Male,27,Canada,Masters,Asian or Asian American
+310,Data Analyst,Yes,41-65,Other,Python,3,7,7,7,7,6,Difficult,Good Culture,Male,28,Canada,Masters,Asian or Asian American
+311,Unemployed / Student,Yes,0-40,Other,R,2,10,10,10,10,3,Both,Remote Work,Female,29,Other,Bachelors,White or Caucasian
+312,Other,No,41-65,Tech,C/C++,7,7,7,7,7,7,Both,Better Salary,Female,43,Other,High School,Asian or Asian American
+313,Data Analyst,Yes,0-40,Finance,Python,0,5,9,9,0,10,Both,Remote Work,Male,26,Other,Bachelors,Black or African American
+314,Unemployed / Student,No,41-65,Tech,SQL,7,8,7,7,8,7,Both,Other,Female,47,United States,Bachelors,Black or African American
+315,Unemployed / Student,Yes,0-40,Finance,Python,,,,8,10,10,Easy,Remote Work,Male,23,Other,Bachelors,Black or African American
+316,Data Analyst,Yes,0-40,Tech,Python,0,1,1,1,1,2,Very Difficult,Better Salary,Male,25,Other,Bachelors,Other 
+317,Other,No,0-40,Finance,Python,6,6,3,7,2,4,Very Difficult,Other,Male,32,Other,Masters,White or Caucasian
+318,Data Analyst,Yes,0-40,Finance,Python,1,10,10,5,3,1,Both,Better Salary,Female,25,United States,Bachelors,White or Caucasian
+319,Data Analyst,No,0-40,Finance,Python,1,2,10,1,2,8,Difficult,Remote Work,Female,29,Other,Bachelors,Hispanic or Latino
+320,Data Analyst,No,41-65,Healthcare,SQL,3,7,5,5,3,3,Both,Better Salary,Female,33,United States,Bachelors,Asian or Asian American
+321,Data Analyst,No,106-125,Education,Python,6,10,10,10,7,6,Easy,Other,Male,36,United States,Masters,Asian or Asian American
+322,Data Analyst,Yes,41-65,Healthcare,Python,4,10,9,3,0,10,Difficult,Good Work/Life Balance,Male,25,United States,Bachelors,White or Caucasian
+323,Data Scientist,No,150-225,Other,Python,8,7,8,7,7,8,Both,Good Work/Life Balance,Male,38,United States,Masters,White or Caucasian
+324,Data Analyst,Yes,66-85,Other,R,3,2,6,6,5,4,Difficult,Good Work/Life Balance,Male,30,United States,Masters,Mixed
+325,Data Analyst,Yes,41-65,Tech,Python,3,5,6,6,6,7,Difficult,Good Culture,Male,35,United States,Masters,Black or African American
+326,Other,No,41-65,Education,SQL,0,1,10,5,0,0,Difficult,Better Salary,Female,42,United States,Bachelors,White or Caucasian
+327,Data Analyst,Yes,66-85,Healthcare,Python,3,5,4,6,4,6,Easy,Remote Work,Male,30,United States,Masters,White or Caucasian
+328,Unemployed / Student,Yes,0-40,Other,Python,0,0,0,0,0,4,Very Difficult,Better Salary,Female,25,Other,Bachelors,Black or African American
+329,Data Analyst,No,86-105,Healthcare,Python,5,9,5,2,5,1,Difficult,Good Culture,Female,28,United States,Bachelors,Asian or Asian American
+330,Data Analyst,Yes,0-40,Other,Python,5,10,8,5,7,10,Very Difficult,Other,Male,28,Canada,Bachelors,Asian or Asian American
+331,Unemployed / Student,No,0-40,Other,SQL,0,0,0,0,0,0,Both,Better Salary,Male,20,Other,High School,Asian or Asian American
+332,Data Analyst,Yes,106-125,Construction,Other,7,8,7,7,10,10,Easy,Good Culture,Male,33,United States,Masters,Hispanic or Latino
+333,Data Analyst,No,66-85,Tech,Python,8,6,7,7,8,8,Easy,Better Salary,Male,23,United States,Associates,White or Caucasian
+334,Data Analyst,Yes,0-40,Healthcare,R,4,5,7,7,5,7,Both,Better Salary,Female,35,Other,Bachelors,Hispanic or Latino
+335,Unemployed / Student,Yes,0-40,Other,Python,2,2,3,3,2,3,Difficult,Good Work/Life Balance,Male,22,India,Bachelors,Asian or Asian American
+336,Data Analyst,Yes,0-40,Tech,Python,5,10,5,6,6,8,Very Difficult,Better Salary,Male,33,India,Bachelors,Asian or Asian American
+337,Data Engineer,No,0-40,Real Estate,Python,1,7,7,7,1,2,Very Easy,Better Salary,Male,22,United States,Bachelors,White or Caucasian
+338,Data Analyst,Yes,86-105,Other,R,7,8,8,7,5,9,Both,Remote Work,Male,35,United States,Bachelors,White or Caucasian
+339,Data Analyst,Yes,66-85,Agriculture,SQL,8,5,6,4,4,8,Easy,Good Work/Life Balance,Female,37,United States,Masters,White or Caucasian
+340,Unemployed / Student,Yes,0-40,Finance,Python,4,,,,,,Very Easy,Better Salary,Male,22,United States,Associates,Other
+341,Data Analyst,Yes,66-85,Healthcare,Python,10,10,10,7,10,10,Both,Better Salary,Male,36,United States,Masters,White or Caucasian
+342,Data Scientist,Yes,86-105,Other,Python,6,5,8,8,7,9,Easy,Good Work/Life Balance,Male,26,India,Bachelors,Hispanic or Latino
+343,Data Analyst,Yes,0-40,Other,R,3,2,6,5,5,6,Both,Good Culture,Female,25,Other,Bachelors,Asian or Asian American
+344,Data Analyst,Yes,41-65,Other,R,4,6,6,5,5,6,Both,Remote Work,Female,34,United States,High School,White or Caucasian
+345,Data Analyst,Yes,0-40,Other,Python,4,8,8,8,7,8,Difficult,Remote Work,Male,33,Other,Bachelors,Hispanic or Latino
+346,Unemployed / Student,No,41-65,Other,Python,0,4,0,1,4,2,Very Difficult,Good Work/Life Balance,Male,37,United States,Bachelors,White or Caucasian
+347,Data Analyst,No,66-85,Other,Python,5,5,7,6,4,6,Very Easy,Better Salary,Female,54,United States,High School,White or Caucasian
+348,Data Analyst,Yes,0-40,Finance,Python,2,,,,,,Very Easy,Better Salary,Male,26,India,Bachelors,Asian or Asian American
+349,Data Analyst,No,41-65,Education,R,4,7,7,7,2,7,Both,Better Salary,Female,27,United States,Masters,Hispanic or Latino
+350,Database Developer,Yes,0-40,Telecommunication,SQL,2,3,6,6,3,5,Difficult,Better Salary,Male,24,United Kingdom,Bachelors,White or Caucasian
+351,Data Analyst,Yes,0-40,Finance,Python,5,5,5,5,5,10,Both,Better Salary,Male,24,Other,Bachelors,White or Caucasian
+352,Other,Yes,0-40,Other,Python,3,4,5,3,2,3,Both,Better Salary,Male,27,Other,Bachelors,White or Caucasian
+353,Unemployed / Student,No,0-40,Other,Python,0,0,0,0,0,0,Very Difficult,Remote Work,Male,25,Other,Bachelors,Asian or Asian American
+354,Data Analyst,Yes,0-40,Tech,Python,1,7,7,7,7,1,Difficult,Better Salary,Female,28,United Kingdom,Masters,Black or African American
+355,Other,No,41-65,Education,Python,3,6,5,5,3,4,Easy,Remote Work,Male,21,United States,Bachelors,Asian or Asian American
+356,Data Analyst,Yes,86-105,Healthcare,Other,4,4,5,5,4,6,Difficult,Good Work/Life Balance,Female,28,United States,Bachelors,White or Caucasian
+357,Data Analyst,Yes,0-40,Tech,Python,3,5,5,5,5,2,Both,Remote Work,Male,30,Other,Masters,Black or African American
+358,Data Analyst,No,0-40,Education,Python,0,10,0,9,5,10,Easy,Remote Work,Male,24,Other,Associates,Black or African American
+359,Data Analyst,Yes,0-40,Healthcare,Python,7,4,6,5,6,6,Difficult,Remote Work,Male,26,India,Bachelors,Asian or Asian American
+360,Data Analyst,Yes,0-40,Tech,Python,,,,,,5,Both,Good Work/Life Balance,Female,19,Other,High School,Asian or Asian American
+361,Unemployed / Student,No,0-40,Other,Python,5,6,6,5,1,3,Both,Good Work/Life Balance,Female,92,India,Masters,Asian or Asian American
+362,Data Analyst,Yes,0-40,Healthcare,Python,1,8,5,1,7,8,Both,Remote Work,Male,28,Other,Bachelors,Black or African American
+363,Unemployed / Student,Yes,0-40,Education,Python,0,1,2,2,1,1,Both,Better Salary,Female,24,India,Masters,Asian or Asian American
+364,Other,No,41-65,Healthcare,Python,7,10,10,10,5,10,Easy,Better Salary,Male,25,United States,Masters,Asian or Asian American
+365,Data Analyst,Yes,41-65,Finance,Python,4,5,5,5,6,6,Both,Good Work/Life Balance,Male,42,United Kingdom,Masters,Black or African American
+366,Data Analyst,Yes,0-40,Tech,Python,2,3,3,3,3,3,Difficult,Better Salary,Male,21,India,Bachelors,Asian or Asian American
+367,Data Analyst,No,66-85,Healthcare,Python,7,8,9,7,7,6,Easy,Better Salary,Male,24,United States,Bachelors,White or Caucasian
+368,Data Analyst,Yes,41-65,Healthcare,Python,4,7,6,6,6,7,Both,Better Salary,Female,26,United States,Bachelors,White or Caucasian
+369,Data Analyst,Yes,0-40,Other,Python,2,8,8,9,8,10,Difficult,Better Salary,Male,30,United Kingdom,Bachelors,White or Caucasian
+370,Data Engineer,Yes,86-105,Other,SQL,6,10,10,10,10,10,Both,Good Culture,Male,27,United States,Bachelors,Black or African American
+371,Data Engineer,Yes,0-40,Tech,Python,0,4,1,0,1,3,Easy,Better Salary,Male,28,India,Bachelors,Asian or Asian American
+372,Data Analyst,No,66-85,Real Estate,SQL,6,8,7,7,5,6,Easy,Better Salary,Female,29,United Kingdom,Bachelors,White or Caucasian
+373,Data Analyst,No,0-40,Other,Python,0,0,0,0,0,0,Easy,Good Work/Life Balance,Female,26,India,Bachelors,Asian or Asian American
+374,Data Engineer,Yes,0-40,Finance,Python,3,3,3,3,3,4,Both,Remote Work,Male,29,Other,Bachelors,Black or African American
+375,Other,No,66-85,Finance,Other,3,5,7,2,5,7,Easy,Remote Work,Male,60,United Kingdom,Masters,White or Caucasian
+376,Data Analyst,Yes,0-40,Healthcare,Python,5,8,8,5,5,6,Both,Better Salary,Male,25,Other,Bachelors,Black or African American
+377,Other,No,0-40,Construction,R,0,0,1,3,2,1,Both,Good Work/Life Balance,Female,37,Other,Masters,Black or African American
+378,Data Analyst,Yes,66-85,Finance,Python,6,8,3,4,5,1,Both,Better Salary,Female,30,Canada,Bachelors,Asian or Asian American
+379,Data Analyst,Yes,0-40,Healthcare,Python,0,1,2,1,0,3,Both,Better Salary,Female,27,Other,Masters,Black or African American
+380,Data Scientist,Yes,225+,Tech,R,5,6,5,5,6,6,Difficult,Other,Male,31,United States,PhD,White or Caucasian
+381,Unemployed / Student,No,0-40,Other,R,10,10,10,10,10,10,Both,Good Work/Life Balance,Male,24,United Kingdom,Masters,Asian or Asian American
+382,Data Analyst,No,0-40,Finance,Other,0,6,6,6,5,6,Both,Better Salary,Female,20,United States,Bachelors,Black or African American
+383,Other,No,0-40,Tech,R,2,1,4,1,1,1,Easy,Good Work/Life Balance,Male,24,India,Bachelors,Asian or Asian American
+384,Unemployed / Student,Yes,0-40,Other,R,3,6,7,6,4,4,Both,Good Work/Life Balance,Male,24,Other,Bachelors,White or Caucasian
+385,Unemployed / Student,No,0-40,Other,R,0,1,3,0,0,0,Both,Good Work/Life Balance,Male,41,Other,Bachelors,Hispanic or Latino
+386,Data Analyst,Yes,86-105,Tech,R,8,8,8,8,8,8,Difficult,Better Salary,Male,41,United States,Bachelors,White or Caucasian
+387,Other,No,150-225,Other,Python,9,8,9,10,8,10,Both,Good Culture,Male,43,United States,Bachelors,White or Caucasian
+388,Data Analyst,No,66-85,Healthcare,Python,7,7,8,4,6,9,Easy,Remote Work,Female,38,United States,Bachelors,White or Caucasian
+389,Data Analyst,Yes,0-40,Other,Python,5,5,5,5,5,6,Both,Better Salary,Female,28,Other,Bachelors,Asian or Asian American
+390,Data Analyst,Yes,86-105,Healthcare,Python,10,8,6,10,7,5,Both,Good Culture,Female,31,Other,Bachelors,Hispanic or Latino
+391,Data Analyst,Yes,86-105,Other,Other,8,7,8,6,7,8,Difficult,Good Work/Life Balance,Female,28,United States,Masters,White or Caucasian
+392,Data Analyst,No,41-65,Healthcare,C/C++,7,8,9,9,4,9,Easy,Remote Work,Male,23,United States,Masters,Asian or Asian American
+393,Data Analyst,No,41-65,Other,Python,5,5,4,5,6,6,Both,Better Salary,Male,25,United Kingdom,Bachelors,Black or African American
+394,Other,No,0-40,Tech,R,2,5,2,8,9,10,Difficult,Remote Work,Male,26,Other,Masters,White or Caucasian
+395,Data Scientist,Yes,125-150,Finance,Python,9,4,8,7,5,6,Difficult,Good Work/Life Balance,Male,35,United States,Bachelors,White or Caucasian
+396,Data Analyst,Yes,106-125,Other,R,8,9,9,7,8,8,Both,Remote Work,Male,30,Other,Masters,White or Caucasian
+397,Data Analyst,Yes,86-105,Tech,R,3,,,,,,Both,Better Salary,Male,35,United Kingdom,Bachelors,White or Caucasian
+398,Data Analyst,Yes,0-40,Telecommunication,Python,0,8,5,5,2,2,Easy,Better Salary,Male,28,Other,Bachelors,Hispanic or Latino
+399,Unemployed / Student,No,0-40,Tech,Python,0,2,3,3,2,3,Easy,Good Work/Life Balance,Female,24,Other,Bachelors,Black or African American
+400,Data Analyst,Yes,41-65,Tech,Python,8,10,7,5,6,5,Both,Good Culture,Female,34,United States,Bachelors,White or Caucasian
+401,Data Analyst,Yes,41-65,Tech,Python,3,5,4,5,3,6,Both,Good Work/Life Balance,Female,31,Other,Masters,White or Caucasian
+402,Data Analyst,Yes,0-40,Tech,Python,0,0,0,0,0,0,Difficult,Good Work/Life Balance,Male,30,United Kingdom,Masters,Asian or Asian American
+403,Data Engineer,Yes,86-105,Other,JavaScript,4,4,1,6,1,5,Difficult,Better Salary,Male,40,United Kingdom,Bachelors,White or Caucasian
+404,Data Analyst,No,41-65,Other,R,4,10,10,10,8,6,Very Difficult,Better Salary,Male,26,United States,Bachelors,Hispanic or Latino
+405,Data Analyst,No,125-150,Healthcare,R,9,9,6,6,6,7,Both,Good Culture,Male,25,United States,Bachelors,White or Caucasian
+406,Data Analyst,Yes,0-40,Other,SQL,,5,8,4,8,4,Easy,Good Culture,Male,45,Other,Associates,White or Caucasian
+407,Data Analyst,No,41-65,Finance,R,7,9,8,6,6,9,Both,Good Culture,Male,26,United States,Masters,Black or African American
+408,Data Scientist,No,0-40,Finance,Python,7,7,8,6,6,4,Both,Good Work/Life Balance,Male,26,India,Masters,Asian or Asian American
+409,Other,Yes,0-40,Finance,Python,3,2,4,2,2,3,Difficult,Better Salary,Male,23,India,Masters,Asian or Asian American
+410,Data Engineer,Yes,106-125,Tech,Python,4,4,4,4,5,6,Both,Good Work/Life Balance,Male,25,India,Masters,Asian or Asian American
+411,Data Analyst,Yes,41-65,Healthcare,R,4,5,6,6,5,6,Both,Better Salary,Female,33,United States,High School,White or Caucasian
+412,Other,No,0-40,Other,SQL,6,3,3,6,6,4,Very Easy,Other,Male,33,India,Bachelors,Asian or Asian American
+413,Data Analyst,Yes,86-105,Healthcare,R,7,8,7,8,3,4,Easy,Good Culture,Male,27,United States,Bachelors,White or Caucasian
+414,Data Analyst,Yes,106-125,Tech,Python,9,9,9,8,8,9,Difficult,Remote Work,Female,28,United States,Masters,Hispanic or Latino
+415,Data Analyst,Yes,66-85,Tech,Python,5,6,7,6,6,7,Very Easy,Better Salary,Male,32,United States,Bachelors,Hispanic or Latino
+416,Data Analyst,Yes,0-40,Tech,Python,2,6,3,6,6,7,Both,Better Salary,Male,35,India,Masters,Asian or Asian American
+417,Data Analyst,Yes,86-105,Real Estate,Python,8,9,10,10,9,10,Both,Good Culture,Male,34,United States,Masters,Hispanic or Latino
+418,Data Analyst,No,41-65,Other,Python,9,8,3,5,2,4,Easy,Better Salary,Male,27,Other,Masters,White or Caucasian
+419,Other,Yes,66-85,Education,R,4,5,5,3,3,4,Easy,Good Culture,Female,30,United States,Masters,White or Caucasian
+420,Data Analyst,No,66-85,Other,Python,8,9,9,9,9,10,Both,Better Salary,Male,34,United States,Masters,White or Caucasian
+421,Other,No,41-65,Other,Python,3,10,6,5,7,8,Both,Remote Work,Female,22,United States,Bachelors,White or Caucasian
+422,Data Analyst,Yes,0-40,Finance,Python,2,2,5,5,2,3,Very Difficult,Good Work/Life Balance,Female,33,India,Masters,Asian or Asian American
+423,Data Analyst,No,0-40,Finance,Python,8,9,9,9,9,9,Both,Better Salary,Female,26,India,Masters,Asian or Asian American
+424,Data Engineer,Yes,0-40,Tech,Python,0,5,8,6,5,7,Both,Better Salary,Male,28,Other,Bachelors,Hispanic or Latino
+425,Other,No,0-40,Other,Python,2,2,7,4,8,1,Difficult,Remote Work,Male,42,United Kingdom,Bachelors,Black or African American
+426,Data Analyst,No,0-40,Other,R,4,10,2,3,2,3,Both,Better Salary,Male,30,Other,Masters,Other
+427,Data Scientist,Yes,106-125,Tech,SQL,10,9,8,8,9,10,Difficult,Better Salary,Male,25,United States,Associates,White or Caucasian
+428,Data Analyst,Yes,41-65,Construction,Python,4,6,6,6,5,7,Easy,Better Salary,Male,32,United States,Bachelors,Black or African American
+429,Data Analyst,No,0-40,Tech,Python,3,4,5,5,6,6,Both,Better Salary,Male,31,Other,Masters,Asian or Asian American
+430,Data Analyst,Yes,150-225,Education,Python,8,7,5,4,7,7,Easy,Remote Work,Male,30,Other,High School,White or Caucasian
+431,Unemployed / Student,Yes,0-40,Other,Python,0,6,6,2,0,3,Both,Better Salary,Male,23,Canada,Bachelors,Asian or Asian American
+432,Other,No,66-85,Education,R,7,7,6,7,6,6,Easy,Remote Work,Female,31,United Kingdom,Bachelors,White or Caucasian
+433,Data Analyst,No,41-65,Other,Python,7,5,9,9,4,9,Both,Good Work/Life Balance,Female,29,Other,Masters,Black or African American
+434,Data Analyst,Yes,0-40,Tech,Python,5,4,4,5,7,10,Both,Remote Work,Male,24,Other,Bachelors,Black or African American
+435,Other,No,41-65,Other,Python,2,7,6,5,6,4,Both,Better Salary,Male,36,United States,Masters,Asian or Asian American
+436,Data Analyst,Yes,41-65,Real Estate,R,4,6,6,6,6,6,Difficult,Remote Work,Female,32,United States,Masters,White or Caucasian
+437,Other,Yes,86-105,Healthcare,Python,8,9,7,7,7,9,Difficult,Remote Work,Female,36,United States,Bachelors,White or Caucasian
+438,Data Engineer,No,106-125,Healthcare,SQL,8,6,5,2,3,2,Easy,Better Salary,Male,30,United States,Bachelors,White or Caucasian
+439,Unemployed / Student,Yes,0-40,Other,R,0,2,2,3,3,4,Both,Good Work/Life Balance,Male,42,Other,Masters,Black or African American
+440,Data Analyst,Yes,86-105,Healthcare,Other,6,6,6,5,4,4,Easy,Remote Work,Male,53,Other,PhD,White or Caucasian
+441,Data Analyst,No,0-40,Finance,Python,1,7,4,10,10,10,Both,Better Salary,Male,25,Other,High School,Asian or Asian American
+442,Data Analyst,No,0-40,Healthcare,Python,1,5,4,6,5,6,Both,Better Salary,Male,23,Other,Bachelors,White or Caucasian
+443,Data Analyst,Yes,0-40,Agriculture,Python,2,1,3,3,3,4,Difficult,Better Salary,Male,36,Other,Bachelors,Other
+444,Data Analyst,Yes,41-65,Healthcare,SQL,,,,,,6,Easy,Good Work/Life Balance,Male,32,Other,Bachelors,Black or African American
+445,Data Analyst,No,86-105,Finance,Python,3,6,4,2,2,3,Difficult,Other,Male,25,United States,Masters,Hispanic or Latino
+446,Data Engineer,Yes,41-65,Tech,Python,4,4,3,4,4,5,Both,Remote Work,Female,35,United Kingdom,Masters,Asian or Asian American
+447,Data Analyst,Yes,66-85,Other,R,3,4,4,5,4,4,Very Easy,Better Salary,Male,26,United States,Bachelors,White or Caucasian
+448,Unemployed / Student,No,0-40,Tech,Python,2,7,9,7,3,3,Difficult,Remote Work,Male,22,United States,Bachelors,White or Caucasian
+449,Data Scientist,Yes,86-105,Other,Python,6,8,10,9,6,8,Both,Better Salary,Male,30,Canada,Masters,Asian or Asian American
+450,Data Analyst,Yes,66-85,Other,Python,2,8,6,1,8,10,Both,Better Salary,Male,36,United States,Masters,White or Caucasian
+451,Data Analyst,Yes,66-85,Healthcare,R,4,4,5,5,4,6,Both,Other,Female,30,United States,Masters,White or Caucasian
+452,Data Scientist,Yes,106-125,Finance,Python,9,8,10,10,10,10,Difficult,Remote Work,Male,29,United States,Bachelors,Asian or Asian American
+453,Other,Yes,66-85,Other,R,8,10,10,7,8,5,Difficult,Other,Male,30,United States,Masters,White or Caucasian
+454,Data Engineer,No,41-65,Finance,Python,0,6,6,6,6,6,Very Easy,Better Salary,Male,24,United States,Bachelors,Black or African American
+455,Data Engineer,Yes,225+,Tech,SQL,3,3,4,4,3,5,Both,Better Salary,Male,33,United States,Bachelors,Asian or Asian American
+456,Data Analyst,No,106-125,Other,Python,10,10,10,10,10,6,Easy,Better Salary,Female,42,United States,Bachelors,White or Caucasian
+457,Data Analyst,Yes,41-65,Healthcare,Python,1,10,10,8,10,3,Both,Better Salary,Female,36,United States,Bachelors,White or Caucasian
+458,Data Analyst,Yes,41-65,Other,Python,2,3,7,6,5,6,Both,Better Salary,Male,27,United States,Bachelors,White or Caucasian
+459,Data Analyst,No,0-40,Tech,Python,8,7,8,7,7,9,Easy,Other,Female,21,India,Bachelors,Asian or Asian American
+460,Data Analyst,Yes,41-65,Healthcare,Python,8,5,8,8,5,10,Difficult,Remote Work,Female,34,Other,Masters,White or Caucasian
+461,Unemployed / Student,No,0-40,Education,Python,2,5,5,5,2,4,Difficult,Better Salary,Male,27,Other,Bachelors,White or Caucasian
+462,Other,Yes,0-40,Tech,Python,7,8,8,8,8,7,Both,Good Culture,Male,27,Other,Masters,White or Caucasian
+463,Unemployed / Student,No,0-40,Education,R,1,1,2,1,0,3,Both,Good Work/Life Balance,Male,30,Other,Associates,Black or African American
+464,Data Analyst,Yes,66-85,Other,SQL,2,0,0,0,0,2,Difficult,Better Salary,Female,33,United States,Bachelors,White or Caucasian
+465,Data Analyst,Yes,86-105,Finance,Python,3,3,4,4,4,4,Difficult,Good Culture,Male,47,India,Masters,American Indian or Alaska Native
+466,Data Analyst,Yes,66-85,Other,SQL,4,5,4,5,4,4,Difficult,Other,Male,27,United States,Masters,Asian or Asian American
+467,Data Analyst,No,0-40,Healthcare,Python,6,7,8,7,6,7,Both,Better Salary,Male,26,India,Bachelors,Asian or Asian American
+468,Data Analyst,No,0-40,Finance,Python,2,3,2,5,5,6,Both,Remote Work,Female,35,India,Masters,Asian or Asian American
+469,Data Analyst,Yes,86-105,Education,Python,0,1,1,0,0,0,Both,Good Culture,Male,31,United States,Masters,Hispanic or Latino
+470,Data Analyst,Yes,0-40,Education,Python,2,1,2,3,4,3,Difficult,Remote Work,Male,25,Other,Bachelors,Black or African American
+471,Data Engineer,Yes,66-85,Real Estate,Python,3,10,8,8,10,10,Easy,Remote Work,Male,27,United States,Bachelors,White or Caucasian
+472,Data Analyst,Yes,41-65,Tech,Python,5,8,3,2,4,8,Both,Good Culture,Male,32,Other,Bachelors,White or Caucasian
+473,Unemployed / Student,Yes,0-40,Real Estate,Python,0,3,3,3,3,6,Difficult,Good Work/Life Balance,Male,47,Other,Bachelors,White or Caucasian
+474,Other,No,66-85,Finance,Python,0,10,10,5,0,0,Both,Good Work/Life Balance,Female,30,United States,Masters,Asian or Asian American
+475,Data Analyst,Yes,106-125,Other,Python,8,6,6,7,9,10,Easy,Better Salary,Female,35,United States,Masters,Black or African American
+476,Data Analyst,Yes,41-65,Finance,Python,6,9,5,7,8,9,Difficult,Remote Work,Male,25,United States,High School,Hispanic or Latino
+477,Other,No,66-85,Other,Python,3,6,6,6,6,6,Both,Better Salary,Male,27,United States,Bachelors,White or Caucasian
+478,Data Analyst,Yes,41-65,Healthcare,R,1,5,3,3,6,5,Difficult,Remote Work,Female,27,United States,Masters,Black or African American
+479,Unemployed / Student,No,0-40,Other,Python,1,8,8,1,3,7,Very Easy,Better Salary,Female,23,India,Masters,Asian or Asian American
+480,Data Scientist,No,41-65,Other,Python,9,10,10,10,10,10,Both,Good Culture,Male,18,United States,Bachelors,White or Caucasian
+481,Data Analyst,Yes,0-40,Healthcare,Python,8,10,9,6,8,9,Easy,Remote Work,Female,28,Other,Masters,Hispanic or Latino
+482,Other,Yes,125-150,Healthcare,Python,7,6,8,8,8,7,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian
+483,Unemployed / Student,No,0-40,Other,Python,0,0,0,0,0,0,Easy,Good Work/Life Balance,Female,26,United States,Bachelors,American Indian or Alaska Native
+484,Unemployed / Student,No,0-40,Education,Python,0,0,3,0,0,8,Difficult,Better Salary,Male,27,Other,Bachelors,Black or African American
+485,Data Analyst,No,41-65,Tech,Python,9,7,9,10,10,10,Both,Good Work/Life Balance,Female,22,India,Masters,Asian or Asian American
+486,Data Analyst,Yes,0-40,Tech,R,0,8,7,6,3,9,Very Difficult,Better Salary,Male,27,United States,High School,White or Caucasian
+487,Data Engineer,Yes,0-40,Other,Python,5,7,6,8,7,7,Both,Good Work/Life Balance,Male,28,India,Bachelors,Asian or Asian American
+488,Data Analyst,Yes,0-40,Tech,Python,3,2,4,3,3,3,Both,Better Salary,Male,25,Other,High School,Black or African American
+489,Data Analyst,No,0-40,Healthcare,Python,2,6,6,7,7,9,Difficult,Better Salary,Male,32,United Kingdom,Bachelors,Hispanic or Latino
+490,Unemployed / Student,Yes,0-40,Finance,SQL,7,9,10,10,3,4,Easy,Remote Work,Male,33,Other,Bachelors,White or Caucasian
+491,Data Analyst,No,41-65,Other,Python,5,6,5,2,3,3,Easy,Remote Work,Male,23,Canada,Masters,Black or African American
+492,Unemployed / Student,Yes,0-40,Finance,R,4,5,4,4,5,6,Both,Remote Work,Female,40,Other,Bachelors,Black or African American
+493,Data Analyst,Yes,41-65,Other,Python,7,9,9,9,7,9,Easy,Better Salary,Female,28,United Kingdom,Bachelors,Asian or Asian American
+494,Data Analyst,No,0-40,Real Estate,R,3,7,8,6,6,9,Difficult,Remote Work,Male,26,Other,High School,Black or African American
+495,Other,Yes,0-40,Tech,Python,3,5,5,4,3,2,Difficult,Better Salary,Female,24,India,Bachelors,Asian or Asian American
+496,Other,Yes,86-105,Finance,Python,7,5,5,8,8,8,Both,Remote Work,Female,40,United States,Associates,Biracial
+497,Data Analyst,Yes,66-85,Other,Python,8,10,10,10,7,9,Both,Better Salary,Male,26,United States,Bachelors,Black or African American
+498,Data Scientist,Yes,41-65,Other,Python,8,8,10,10,10,10,Easy,Good Culture,Female,44,United Kingdom,Bachelors,White or Caucasian
+499,Other,Yes,66-85,Other,Python,7,9,8,8,6,6,Both,Better Salary,Male,36,United States,Masters,White or Caucasian
+500,Other,Yes,0-40,Other,Python,1,5,10,10,8,10,Both,Better Salary,Male,30,Other,Bachelors,Hispanic or Latino
+501,Other,Yes,0-40,Other,Python,3,3,3,2,2,2,Very Easy,Good Work/Life Balance,Male,48,Other,Masters,Asian or Asian American
+502,Data Analyst,Yes,41-65,Construction,Other,1,4,1,2,2,3,Easy,Better Salary,Female,30,Canada,Masters,Asian or Asian American
+503,Other,No,0-40,Telecommunication,Python,3,8,8,5,3,5,Difficult,Better Salary,Male,28,India,Bachelors,Asian or Asian American
+504,Other,No,0-40,Tech,Python,5,8,7,7,3,2,Difficult,Better Salary,Male,25,India,Bachelors,Asian or Asian American
+505,Other,No,106-125,Tech,SQL,6,5,4,4,3,4,Easy,Better Salary,Male,24,United States,Masters,American Indian or Alaska Native
+506,Data Analyst,Yes,41-65,Other,Python,5,10,7,7,4,8,Easy,Better Salary,Male,31,United States,Bachelors,Black or African American
+507,Data Engineer,No,0-40,Real Estate,Python,3,3,8,9,5,3,Easy,Better Salary,Male,23,United Kingdom,Bachelors,Asian or Asian American
+508,Data Analyst,No,41-65,Other,Other,1,4,4,1,1,4,Easy,Good Culture,Female,48,United Kingdom,Masters,White or Caucasian
+509,Data Analyst,Yes,66-85,Healthcare,Python,6,9,8,8,8,7,Both,Better Salary,Male,28,United States,Bachelors,Black or African American
+510,Data Analyst,Yes,41-65,Other,Python,5,7,7,7,7,7,Difficult,Better Salary,Male,32,United Kingdom,Masters,Hispanic or Latino
+511,Data Scientist,Yes,41-65,Finance,Python,5,7,7,4,5,7,Both,Better Salary,Male,30,Other,Bachelors,Asian or Asian American
+512,Data Analyst,Yes,0-40,Other,Python,5,5,7,7,7,8,Both,Good Work/Life Balance,Male,32,Other,Masters,White or Caucasian
+513,Data Analyst,Yes,0-40,Tech,Python,0,3,0,1,0,0,Easy,Good Culture,Female,30,Other,Masters,Asian or Asian American
+514,Data Analyst,Yes,0-40,Other,Python,4,2,5,2,4,4,Both,Good Work/Life Balance,Female,35,Other,Masters,White or Caucasian
+515,Unemployed / Student,Yes,0-40,Tech,R,,,,,,10,Easy,Remote Work,Female,38,United Kingdom,Masters,Black or African American
+516,Other,Yes,66-85,Other,Python,6,6,7,7,6,7,Easy,Good Culture,Female,30,United States,Masters,Asian or Asian American
+517,Data Analyst,Yes,41-65,Tech,Python,3,3,5,4,4,4,Both,Better Salary,Male,48,United States,Bachelors,White or Caucasian
+518,Data Analyst,Yes,66-85,Finance,SQL,5,8,5,5,5,4,Easy,Remote Work,Male,32,Canada,Masters,Asian or Asian American
+519,Other,Yes,41-65,Telecommunication,Python,4,5,4,5,5,6,Difficult,Good Work/Life Balance,Male,27,India,Bachelors,American Indian or Alaska Native
+520,Other,No,41-65,Tech,Python,7,9,5,6,6,7,Easy,Other,Male,27,United Kingdom,Masters,White or Caucasian
+521,Unemployed / Student,No,0-40,Finance,Python,8,7,6,7,8,10,Both,Remote Work,Male,24,Other,Bachelors,Black or African American
+522,Data Scientist,Yes,150-225,Finance,R,9,9,9,9,8,8,Difficult,Better Salary,Male,42,United States,PhD,Asian or Asian American
+523,Other,No,41-65,Tech,Python,8,6,6,8,7,8,Both,Better Salary,Male,24,United States,Bachelors,Hispanic or Latino
+524,Database Developer,Yes,0-40,Tech,Python,5,9,7,7,6,9,Easy,Better Salary,Male,23,India,Bachelors,Asian or Asian American
+525,Data Analyst,No,0-40,Tech,Python,7,9,8,8,4,2,Both,Better Salary,Male,26,India,Bachelors,Asian or Asian American
+526,Data Analyst,No,41-65,Other,SQL,5,6,6,2,2,3,Both,Better Salary,Male,32,Other,Bachelors,Black or African American
+527,Other,No,0-40,Telecommunication,Python,4,3,2,0,0,0,Both,Good Work/Life Balance,Male,35,Other,Bachelors,White or Caucasian
+528,Data Analyst,Yes,106-125,Healthcare,Python,4,3,4,2,2,2,Easy,Good Work/Life Balance,Male,41,United States,High School,White or Caucasian
+529,Other,No,41-65,Education,Python,4,9,8,8,6,7,Both,Better Salary,Male,25,United States,Masters,White or Caucasian
+530,Data Analyst,Yes,0-40,Construction,Python,0,0,0,0,0,0,Very Difficult,Better Salary,Female,28,United States,Masters,Asian or Asian American
+531,Data Analyst,Yes,41-65,Agriculture,Python,3,6,5,5,5,6,Both,Better Salary,Male,29,United States,Bachelors,White or Caucasian
+532,Unemployed / Student,No,0-40,Telecommunication,Python,8,10,6,7,8,8,Both,Better Salary,Male,19,United States,High School,White or Caucasian
+533,Data Analyst,Yes,41-65,Other,Python,5,6,9,6,7,10,Both,Better Salary,Male,27,India,Bachelors,Asian or Asian American
+534,Unemployed / Student,Yes,0-40,Finance,Python,8,9,9,7,8,8,Both,Better Salary,Male,25,Other,Bachelors,White or Caucasian
+535,Data Analyst,Yes,41-65,Other,Python,6,10,10,10,10,8,Difficult,Better Salary,Female,26,Canada,Masters,Asian or Asian American
+536,Data Analyst,Yes,0-40,Healthcare,Python,3,4,5,5,4,5,Difficult,Good Work/Life Balance,Male,25,Other,Bachelors,White or Caucasian
+537,Data Analyst,Yes,0-40,Other,Python,6,6,9,9,10,10,Both,Remote Work,Male,25,Other,Bachelors,White or Caucasian
+538,Data Analyst,Yes,0-40,Healthcare,R,2,3,4,3,3,5,Both,Good Work/Life Balance,Male,26,Other,Bachelors,Black or African American
+539,Data Analyst,Yes,125-150,Education,Python,8,8,7,6,7,9,Both,Good Culture,Male,35,United States,Bachelors,White or Caucasian
+540,Data Analyst,Yes,86-105,Other,Python,6,7,7,6,7,6,Difficult,Remote Work,Male,29,United States,Masters,Black or African American
+541,Data Analyst,Yes,86-105,Tech,Python,7,6,5,4,3,6,Both,Better Salary,Female,41,United States,Associates,Hispanic or Latino
+542,Unemployed / Student,No,0-40,Education,Python,0,6,4,5,2,4,Very Difficult,Remote Work,Female,22,United States,Bachelors,Hispanic or Latino
+543,Data Analyst,Yes,66-85,Healthcare,Other,2,6,6,4,3,3,Difficult,Better Salary,Male,35,United States,Bachelors,Hispanic or Latino
+544,Data Analyst,Yes,66-85,Finance,Python,4,3,4,4,4,6,Very Difficult,Better Salary,Male,30,Other,Bachelors,Asian or Asian American
+545,Data Engineer,No,150-225,Real Estate,Python,4,6,3,2,3,3,Both,Good Culture,Male,37,Canada,Bachelors,Asian or Asian American
+546,Data Analyst,Yes,66-85,Other,Python,6,7,7,5,5,9,Difficult,Better Salary,Female,28,United States,Masters,Black or African American
+547,Data Analyst,No,86-105,Real Estate,Python,7,5,6,6,4,6,Both,Good Culture,Male,23,United States,High School,White or Caucasian
+548,Unemployed / Student,No,0-40,Finance,Python,3,4,8,5,5,3,Both,Better Salary,Male,26,United States,High School,Asian or Asian American
+549,Data Analyst,No,66-85,Other,Python,2,4,4,3,4,4,Both,Good Work/Life Balance,Male,25,Other,Bachelors,Native Hawaiian or other Pacific Islander
+550,Data Analyst,No,0-40,Tech,Python,0,1,2,1,1,1,Both,Remote Work,Male,23,India,Bachelors,Asian or Asian American
+551,Unemployed / Student,Yes,0-40,Other,Other,0,1,0,0,0,0,Both,Good Culture,Male,53,Other,Bachelors,Black or African American
+552,Data Engineer,Yes,0-40,Tech,Python,4,6,6,3,7,9,Both,Better Salary,Female,33,Other,Bachelors,White or Caucasian
+553,Unemployed / Student,Yes,0-40,Finance,R,3,5,5,4,5,6,Difficult,Better Salary,Male,39,Other,High School,Black or African American
+554,Data Analyst,Yes,0-40,Healthcare,Other,6,7,5,7,7,9,Difficult,Better Salary,Female,22,United Kingdom,Bachelors,White or Caucasian
+555,Data Analyst,No,41-65,Finance,Python,4,7,7,7,5,5,Easy,Better Salary,Male,24,Other,Bachelors,White or Caucasian
+556,Data Architect,No,86-105,Other,Python,5,1,3,1,4,5,Difficult,Good Work/Life Balance,Male,31,Canada,High School,White or Caucasian
+557,Data Analyst,Yes,0-40,Other,Python,0,0,0,0,0,0,Very Difficult,Better Salary,Male,25,Other,Bachelors,Asian or Asian American
+558,Unemployed / Student,No,0-40,Tech,R,4,7,7,6,6,6,Both,Better Salary,Male,25,India,Bachelors,Asian or Asian American
+559,Data Analyst,No,0-40,Tech,Python,3,4,4,4,2,0,Both,Good Work/Life Balance,Male,23,India,Bachelors,Asian or Asian American
+560,Other,Yes,41-65,Other,SQL,6,7,7,7,7,6,Both,Other,Male,23,India,Bachelors,Asian or Asian American
+561,Data Analyst,No,86-105,Healthcare,Python,8,9,8,8,8,9,Difficult,Better Salary,Male,40,United States,High School,White or Caucasian
+562,Data Analyst,No,41-65,Other,C/C++,5,6,6,2,0,4,Both,Better Salary,Male,29,United States,Bachelors,Hispanic or Latino
+563,Data Analyst,Yes,0-40,Tech,Python,1,7,5,5,4,4,Difficult,Better Salary,Male,28,India,Bachelors,Asian or Asian American
+564,Data Analyst,Yes,0-40,Healthcare,R,3,6,6,4,6,3,Very Easy,Better Salary,Female,28,United Kingdom,Masters,Black or African American
+565,Unemployed / Student,Yes,0-40,Telecommunication,Python,0,3,3,4,5,5,Difficult,Good Work/Life Balance,Female,26,India,Masters,Asian or Asian American
+566,Data Engineer,No,41-65,Construction,Python,6,8,8,5,5,5,Both,Better Salary,Male,30,Other,Masters,White or Caucasian
+567,Data Analyst,Yes,66-85,Education,SQL,5,9,7,9,8,9,Both,Better Salary,Male,27,Other,Bachelors,Asian or Asian American
+568,Data Analyst,Yes,0-40,Other,Other,2,0,5,3,0,3,Very Difficult,Remote Work,Male,28,Other,Bachelors,Black or African American
+569,Data Analyst,No,66-85,Education,Python,3,3,5,3,3,4,Both,Good Work/Life Balance,Female,38,Other,Masters,Black or African American
+570,Data Analyst,No,0-40,Finance,Python,2,6,5,5,6,6,Easy,Good Culture,Male,22,Other,Bachelors,White or Caucasian
+571,Data Analyst,Yes,86-105,Other,Python,7,8,9,9,9,9,Difficult,Better Salary,Male,34,United States,Bachelors,Hispanic or Latino
+572,Data Analyst,No,0-40,Tech,Python,3,8,8,5,7,9,Easy,Better Salary,Male,26,Other,Bachelors,Asian or Asian American
+573,Data Analyst,Yes,66-85,Tech,Python,5,9,7,7,8,9,Both,Better Salary,Female,26,Canada,Bachelors,Asian or Asian American
+574,Data Engineer,No,66-85,Education,Python,10,10,10,9,9,10,Difficult,Remote Work,Male,25,Other,Bachelors,White or Caucasian
+575,Data Scientist,Yes,125-150,Tech,Python,5,3,7,4,5,3,Easy,Other,Male,34,United States,Bachelors,Black or African American
+576,Other,Yes,41-65,Finance,Other,7,10,10,10,4,5,Both,Good Work/Life Balance,Female,32,Other,Bachelors,Hispanic or Latino
+577,Unemployed / Student,No,0-40,Construction,R,2,2,2,2,2,2,Difficult,Better Salary,Male,24,United States,Associates,Black or African American
+578,Data Engineer,Yes,0-40,Tech,Python,7,3,3,2,5,9,Difficult,Better Salary,Male,26,Other,Bachelors,Hispanic or Latino
+579,Data Analyst,Yes,41-65,Telecommunication,SQL,4,7,5,6,4,6,Difficult,Better Salary,Female,32,Other,Masters,Black or African American
+580,Data Scientist,No,41-65,Tech,R,5,1,7,1,1,2,Both,Good Work/Life Balance,Male,40,Other,Masters,White or Caucasian
+581,Data Analyst,No,0-40,Other,Python,0,7,1,6,0,0,Easy,Better Salary,Male,27,United States,Bachelors,Black or African American
+582,Data Analyst,Yes,66-85,Tech,R,4,3,6,7,4,7,Easy,Better Salary,Male,28,United States,Masters,Black or African American
+583,Data Analyst,Yes,0-40,Other,Python,1,9,5,5,1,1,Difficult,Better Salary,Male,30,Other,Bachelors,Black or African American
+584,Data Analyst,Yes,0-40,Other,Python,0,6,5,5,5,6,Difficult,Remote Work,Male,37,United States,Bachelors,White or Caucasian
+585,Other,No,41-65,Tech,JavaScript,7,7,5,5,0,0,Difficult,Good Culture,Male,32,Other,Bachelors,Asian or Asian American
+586,Data Analyst,Yes,41-65,Tech,Python,9,7,10,10,5,8,Both,Better Salary,Male,24,Other,Bachelors,Asian or Asian American
+587,Data Analyst,Yes,0-40,Tech,Python,6,7,7,7,5,6,Both,Better Salary,Male,39,Other,Associates,White or Caucasian
+588,Data Analyst,Yes,125-150,Finance,Python,6,8,7,4,4,2,Easy,Other,Male,34,Other,Bachelors,Asian or Asian American
+589,Data Analyst,No,41-65,Other,Python,5,6,10,7,3,3,Both,Remote Work,Male,27,United States,Bachelors,Black or African American
+590,Data Analyst,Yes,66-85,Healthcare,SQL,7,7,4,7,7,7,Difficult,Better Salary,Male,54,United States,High School,White or Caucasian
+591,Unemployed / Student,No,0-40,Tech,Python,0,,,,,,Difficult,Remote Work,Female,20,India,Bachelors,Asian or Asian American
+592,Unemployed / Student,Yes,0-40,Finance,SQL,3,3,3,3,3,3,Both,Good Work/Life Balance,Male,25,India,Masters,Asian or Asian American
+593,Unemployed / Student,No,0-40,Tech,Python,7,7,2,2,7,9,Easy,Good Work/Life Balance,Male,33,India,Bachelors,Asian or Asian American
+594,Data Analyst,Yes,41-65,Tech,Python,4,8,8,8,10,10,Very Easy,Remote Work,Male,30,United Kingdom,Masters,White or Caucasian
+595,Unemployed / Student,Yes,0-40,Tech,Python,0,4,2,0,1,3,Both,Better Salary,Male,31,Other,High School,Black or African American
+596,Unemployed / Student,Yes,0-40,Other,Python,5,6,5,6,2,1,Difficult,Remote Work,Male,22,Other,Masters,Asian or Asian American
+597,Data Analyst,Yes,66-85,Tech,R,8,10,10,10,8,9,Both,Remote Work,Female,38,United States,Bachelors,Black or African American
+598,Data Analyst,No,0-40,Other,Python,6,9,7,7,5,8,Both,Good Work/Life Balance,Male,22,Other,Bachelors,Asian or Asian American
+599,Data Scientist,Yes,0-40,Real Estate,Python,2,3,4,5,3,6,Very Easy,Better Salary,Male,33,India,Bachelors,Asian or Asian American
+600,Data Analyst,Yes,41-65,Tech,Python,3,6,6,6,5,5,Both,Better Salary,Male,27,Canada,Bachelors,White or Caucasian
+601,Data Analyst,No,0-40,Tech,R,0,6,3,0,0,10,Both,Remote Work,Male,19,Other,Bachelors,White or Caucasian
+602,Other,No,0-40,Other,Python,1,6,2,5,1,0,Both,Better Salary,Male,24,India,Bachelors,Asian or Asian American
+603,Other,No,150-225,Finance,Other,8,10,9,10,8,10,Very Easy,Good Culture,Female,58,United States,Masters,White or Caucasian
+604,Data Analyst,No,0-40,Tech,Python,2,2,5,6,6,3,Both,Good Work/Life Balance,Male,22,Other,Bachelors,Black or African American
+605,Data Analyst,No,86-105,Tech,Python,4,4,4,4,3,4,Both,Better Salary,Male,26,Other,Masters,Asian or Asian American
+606,Other,No,41-65,Tech,Other,4,5,4,5,5,3,Easy,Good Culture,Female,31,United Kingdom,Bachelors,White or Caucasian
+607,Data Analyst,No,41-65,Agriculture,Python,2,2,4,5,1,1,Both,Better Salary,Male,23,United States,High School,Hispanic or Latino
+608,Data Analyst,No,86-105,Healthcare,Python,7,10,10,10,7,8,Both,Remote Work,Female,31,United States,Masters,Asian or Asian American
+609,Unemployed / Student,No,66-85,Construction,Other,5,5,7,7,9,10,Difficult,Better Salary,Female,24,United States,Bachelors,Asian or Asian American
+610,Other,Yes,41-65,Finance,Python,8,10,10,10,10,10,Both,Better Salary,Male,29,Other,Bachelors,Hispanic or Latino
+611,Unemployed / Student,Yes,0-40,Education,Python,7,8,9,8,9,10,Difficult,Good Work/Life Balance,Male,26,Other,Bachelors,Asian or Asian American
+612,Unemployed / Student,Yes,0-40,Other,Python,3,9,9,9,9,9,Both,Better Salary,Male,20,India,High School,Asian or Asian American
+613,Data Analyst,Yes,0-40,Education,Python,0,2,3,2,4,2,Both,Better Salary,Male,23,India,Bachelors,Asian or Asian American
+614,Data Analyst,No,106-125,Tech,Python,8,8,9,8,7,7,Both,Good Work/Life Balance,Male,33,United States,Masters,White or Caucasian
+615,Unemployed / Student,Yes,0-40,Tech,Python,2,3,3,5,5,9,Easy,Remote Work,Male,26,Other,Bachelors,Black or African American
+616,Data Analyst,Yes,0-40,Other,R,3,9,8,8,6,6,Difficult,Better Salary,Male,27,India,Bachelors,Asian or Asian American
+617,Unemployed / Student,No,0-40,Agriculture,SQL,0,8,8,8,8,8,Both,Better Salary,Male,22,Other,Bachelors,Asian or Asian American
+618,Data Analyst,Yes,0-40,Tech,Python,3,9,9,6,9,4,Easy,Better Salary,Male,23,Other,Masters,White or Caucasian
+619,Other,Yes,0-40,Other,Python,3,6,7,5,4,4,Both,Better Salary,Male,28,Other,Bachelors,Hispanic or Latino
+620,Data Analyst,No,41-65,Finance,SQL,7,5,4,6,4,5,Easy,Good Work/Life Balance,Female,39,Other,Masters,White or Caucasian
+621,Other,No,106-125,Other,Python,3,2,5,3,3,4,Both,Better Salary,Male,37,United States,Masters,White or Caucasian
+622,Database Developer,Yes,41-65,Education,SQL,4,7,7,7,7,7,Difficult,Better Salary,Female,29,United States,Masters,White or Caucasian
+623,Data Analyst,Yes,106-125,Finance,Python,5,6,6,5,4,3,Easy,Good Work/Life Balance,Male,42,United States,Masters,White or Caucasian
+624,Unemployed / Student,No,0-40,Tech,R,0,0,0,0,0,0,Both,Good Culture,Female,25,Canada,Bachelors,Asian or Asian American
+625,Database Developer,Yes,0-40,Telecommunication,Python,5,5,5,5,4,5,Easy,Better Salary,Male,66,Other,High School,Black or African American
+626,Data Analyst,Yes,125-150,Other,R,8,5,6,6,5,7,Easy,Better Salary,Male,26,United States,Bachelors,White or Caucasian
+627,Other,No,0-40,Other,R,4,6,7,7,4,6,Difficult,Better Salary,Male,21,United States,Bachelors,White or Caucasian
+628,Unemployed / Student,Yes,0-40,Tech,Python,1,2,1,2,1,2,Difficult,Better Salary,Male,26,Other,Bachelors,Asian or Asian American
+629,Data Engineer,No,0-40,Tech,Python,6,6,6,6,4,3,Easy,Other,Male,24,Other,Bachelors,Hispanic or Latino
+630,Data Analyst,No,41-65,Other,Python,8,7,6,7,6,8,Easy,Remote Work,Male,22,United States,Bachelors,Asian or Asian American
